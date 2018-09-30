@@ -1,0 +1,846 @@
+https://github.com/gboeing/osmnx | gboeing/osmnx: Python for street networks: retrieve, construct, analyze, and visualize street networks from OpenStreetMap.
+https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html | Command Reference — virtualenvwrapper 4.7.1.dev27 documentation
+http://stackoverflow.com/questions/20199126/reading-a-json-file-using-python | Reading a JSON file using Python - Stack Overflow
+http://communitycrimemap.com/ | LexisNexis® Community Crime Map
+http://opendata.dc.gov/ | Home | the DC GIS Open Data Site
+http://chrisalbon.com/python/pandas_join_merge_dataframe.html | Join And Merge Pandas Dataframe - Python
+http://www.dhcd.virginia.gov/index.php/va-building-codes/building-and-fire-codes/code-change-process.html | 2015 Code Change Cycle
+https://av.iccsafe.org/eweb/DynamicPage.aspx?Site=va-cdp&WebCode=LoginRequired&URL_success=https://va.cdpaccess.com/?Token={Token} | Login Required
+http://codes.iccsafe.org/Virginia.html | Welcome
+
+https://github.com/gboeing/urban-data-science | gboeing/urban-data-science: Course materials, Jupyter notebooks, tutorials, guides, and demos for a Python-based urban data science course.
+https://github.com/gboeing/urban-data-science/blob/master/19-Spatial-Analysis-and-Cartography/spatial-analysis-cartography.ipynb | urban-data-science/spatial-analysis-cartography.ipynb at master · gboeing/urban-data-science
+http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html#.WFCqSrYrI0r | So You’d Like To Make a Map Using Python - Sensitive Cities
+
+http://aceee.org/research-report/u1506 | Local Energy Efficiency Policy Calculator (LEEP-C) | ACEEE
+https://www.cdp.net/en | Home - CDP
+http://aceee.org/log-free-access-publications?id=5229 | Log In for Free Access to Publications | ACEEE
+https://www.mwcog.org/documents/2016/08/01/multi-sector-approach-to-reducing-greenhouse-gas-emissions-in-the-metropolitan-washington-region-final-technical-report/ | Multi-Sector Approach to Reducing Greenhouse Gas Emissions in the Metropolitan Washington Region Final Technical Report | Metropolitan Washington Council of Governments
+file:///Users/egeriicw/Downloads/Final_Technical_Report_01-31-16.pdf | Final_Technical_Report_01-31-16.pdf
+https://www.dom.com/library/domcom/pdfs/corporate/our-commitments/environment/greenhouse-gas-report.pdf | greenhouse-gas-report.pdf
+http://aceee.org/research-report/u1506 | Local Energy Efficiency Policy Calculator (LEEP-C) | ACEEE
+http://aceee.org/sites/default/files/pdf/fact-sheet/DEEPER_Methodology.pdf | DEEPER_Methodology.pdf
+http://aceee.org/research-report/u1602 | Lifting the High Energy Burden in America’s Largest Cities: How Energy Efficiency Can Improve Low-Income and Underserved Communities | ACEEE
+http://aceee.org/sites/default/files/publications/researchreports/u1602.pdf | u1602.pdf
+http://www.novaregion.org/index.aspx?nid=1215 | Northern Virginia Regional Commission - Website - District Energy Systems
+http://www.novaregion.org/DocumentCenter/Home/View/3050 | 3050
+https://www.cnu.org/ | CNU
+http://sustainabilitytoolkit.apwa.net/ | APWA Sustainability Toolkit
+http://www.sustainablesites.org/certification | Certification | SITES
+
+https://www.coursera.org/courses?languages=en&query=model | Model Courses | Coursera
+https://www.coursera.org/specializations/wharton-business-financial-modeling | Business and Financial Modeling | Coursera
+https://www.coursera.org/learn/model-thinking | Model Thinking - University of Michigan | Coursera
+https://www.kaggle.com/datasets | Datasets | Kaggle
+
+https://www.fastcodesign.com/3064130/the-35-most-innovative-apps-of-the-year | The 35 Most Innovative Apps Of The Year | Co.Design | business + design
+https://github.com/gboeing/osmnx | gboeing/osmnx: Python for street networks: retrieve, construct, analyze, and visualize street networks from OpenStreetMap.
+http://whole30.com/new/ | Welcome to the Whole30 | The Whole30® Program
+http://www.artofmanliness.com/2008/05/08/how-do-you-know-when-shes-the-one/ | How You Know She Is the One | The Art of Manliness
+http://dailystoic.com/stoic-guide-election/ | Naked, Starved, Deceived, and Destroyed: A Stoic’s Guide to Elections – Daily Stoic
+http://www.citylab.com/navigator/2016/10/9-new-books-about-city-life-to-read-now/503681/?utm_source=SFFB | 9 New Books About Urban Life to Read This Fall - CityLab
+http://www.vox.com/policy-and-politics/2016/10/12/13251608/elizabeth-warren-personnel-policy | What Elizabeth Warren really wants from Hillary Clinton - Vox
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2659896 | The Quantified Community and Neighborhood Labs: A Framework for Computational Urban Planning and Civic Technology Innovation by Constantine E. Kontokosta :: SSRN
+https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1645634 | Author Page for Constantine E. Kontokosta :: SSRN
+http://www.thekitchn.com/how-to-make-your-own-kombucha-scoby-cooking-lessons-from-the-kitchn-202596 | How To Make Your Own Kombucha Scoby — Cooking Lessons from The Kitchn | The Kitchn
+http://scholar.harvard.edu/files/glaeser/files/urban_economics_and_entrepreneurship.pdf | urban_economics_and_entrepreneurship.pdf
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=json2csv | json2csv - Google Search
+http://usdn.org/documents/16892 | Washington DC Green Building Fund - MRIS Green MLS Adoption Study - Urban Sustainability Directors Network
+file:///Users/egeriicw/Downloads/IMT_GreeningtheMLS_FINAL.pdf | IMT_GreeningtheMLS_FINAL.pdf
+http://realestate.alexandriava.gov/detail.php?accountno=11414500 | Alexandria, VA | 918 PRINCE ST, ALEXANDRIA, VA | Property Details
+http://www.richmond.com/business/article_57df1b1e-8e36-5786-b15e-b582771772d1.html | Major companies call for more renewable energy options in Virginia - Richmond Times-Dispatch: Richmond Business News From The RTD
+http://formbasedcodes.org/?wpv_column_sort_id=post_title&wpv_column_sort_dir=asc&wpv_post_id=87&wpv_view_count=1933-CPID87&wpv_paged=11 | Form-Based Codes Institute - Fostering Time-tested Urban Form : Form-Based Codes Institute
+https://courses.planetizen.com/support#planetizen | Support | Planetizen Courses
+http://mobilitylab.org/ | Home - Mobility Lab
+https://dcmetrohero.com/ | MetroHero
+https://environment.arlingtonva.us/energy/ | Arlington Initiative to Rethink Energy - Environment
+http://www.cityenergyproject.org/wp-content/uploads/2016/11/2016.11.15-CEP-PHASE-2-ANNOUNCEMENT-FINAL.pdf | Microsoft Word - 2016.11.15 CEP PHASE 2 ANNOUNCEMENT FINAL.docx
+http://www.deq.virginia.gov/Portals/0/DEQ/Air/VWMitigation/plan.pdf?ver=2016-11-15-100015-493 | State Mitigation Plan for the Volkswagen Partial Consent Decree
+http://www.geog.ucsb.edu/~chris/Lecture10_210C_Davenport_Spatial%20Panels.pdf | Slide 1
+http://geoffboeing.com/2016/03/scientific-python-raspberry-pi/ | Scientific Python for Raspberry Pi - Geoff Boeing
+https://www.rackaid.com/blog/linux-screen-tutorial-and-how-to/ | How To Use Linux Screen
+http://docs.python-guide.org/en/latest/scenarios/imaging/ | Image Manipulation — The Hitchhiker's Guide to Python
+https://www.atlassian.com/git/tutorials/making-a-pull-request/ | Pull Requests | Atlassian Git Tutorial
+http://geoffboeing.com/2015/08/urban-informatics-visualization-berkeley/ | Urban Informatics and Visualization at UC Berkeley - Geoff Boeing
+http://www.makeuseof.com/tag/build-linux-web-server-computer-part-1/ | How To Build A Linux Web Server With An Old Computer [Part 1]
+http://cityoflakes.maps.arcgis.com/apps/Solutions/s2.html?appid=71870d8b3c7349cfa04826af45649a6b | Find My Solar Suitability
+https://lahub.maps.arcgis.com/apps/MapJournal/index.html?appid=4b62eb4528944af9ac1535817da965c4 | Clean Streets Index
+http://story.maps.arcgis.com/apps/Cascade/index.html?appid=6bcda5e199034d51b1287ed6a0db2061 | An Atlas of Electricity
+http://www.tecmint.com/screen-command-examples-to-manage-linux-terminals/ | 10 Screen Command Examples to Manage Linux Terminals
+https://en.wikipedia.org/wiki/History_of_Philadelphia | History of Philadelphia - Wikipedia
+https://www.google.com/#q=gis+streetlight+analysis&start=10 | gis streetlight analysis - Google Search
+http://portoalegre.andrew.cmu.edu/
+https://github.com/jingkungao/PLAID | jingkungao/PLAID: IPython Notebook to explore PLAID dataset
+http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy | Indexing and Selecting Data — pandas 0.19.1 documentation
+http://stackoverflow.com/questions/42950/get-last-day-of-the-month-in-python | date - Get Last Day of the Month in Python - Stack Overflow
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=panel%20date%20analysis | panel date analysis - Google Search
+http://stackoverflow.com/questions/24195432/fixed-effect-in-pandas-or-statsmodels/24196288#24196288 | python - Fixed effect in Pandas or Statsmodels - Stack Overflow
+https://photos.google.com/ | Photos - Google Photos
+https://www.dhs.gov/mytsa-api-documentation | MyTSA API Documentation | Homeland Security
+
+http://scitools.org.uk/cartopy/ | Cartopy Homepage
+http://blog.yhat.com/posts/grouping-pandas.html | ŷhat | Grouping in pandas
+https://www.cryptzone.com/products/secure-access/mindterm | Secure Access MindTerm
+http://fourhourworkweek.com/2010/06/09/choice-effect-why-are-you-single/ | Why Are You Single? Perhaps It's The Choice Effect | The Blog of Author Tim Ferriss
+http://www.thepennyhoarder.com/50-make-extra-money/?aff_id=4&utm_source=facebook&utm_medium=paid&payout=.08 | 50 Ways to Make Money in 2016 That You've Never Heard Of
+https://www.amazon.com/gp/product/B00T6JO2RS/ref=wtls_list_ovl_mor?fullSynopsis=1 | Amazon.com: Lovesick: Matt LeBlanc, Ali Larder, Adam Rodriguez, Ashley Williams: Amazon Digital Services LLC
+https://dusp.mit.edu/uis/program/overview | Overview | MIT Department of Urban Studies and Planning
+http://www.sheldonbrown.com/ | Sheldon Brown-Bicycle Technical Information
+https://carto.com/location-data-services/ | Location Data Services — CARTO
+https://github.com/openaddresses/openaddresses/blob/master/sources/us/va/arlington.json | openaddresses/arlington.json at master · openaddresses/openaddresses
+http://www.navysealchadwilliams.com/about-chad-williams#.V-pAO5MrKJT | About Chad — Navy SEAL - Chad Williams
+http://tinkererforlife.com/mapbox-tutorial-series/# | Mapbox Tutorial Series : 1. Introduction
+https://www.rhino3d.com/sales/north-america/United_States | Buy - Rhinoceros
+http://geoiq.com/?reqp=1&reqr=
+http://geocommons.com/ | GeoCommons Archive
+https://github.com/geoiq/gc_data/tree/master/datasets | gc_data/datasets at master · geoiq/gc_data
+https://github.com/project-open-data/esri2open | project-open-data/esri2open: this repo is an ESRI toolbox and tool(s) that export ESRI Feature Classes to open data formats, CSV, JSON, and GeoJSON
+http://blog.geomusings.com/ | geoMusings – geospatial technologies and practices
+https://hifld-dhs-gii.opendata.arcgis.com/ | Home | HIFLD Open Data
+http://www.cheatsheet.com/automobiles/top-10-electric-vehicles-with-the-longest-driving-range.html/ | 10 Electric Vehicles With the Best Range in 2015
+http://geohipster.com/ | GeoHipster - Mapping the world, one organic vertex at a time.
+https://www.azavea.com/research/ | Research - Azavea - Beyond Dots on a Map
+https://github.com/azavea?utf8=%E2%9C%93&query=docker | Azavea
+http://geotrellis.io/
+https://github.com/azavea/python-omgeo | azavea/python-omgeo: OMGeocoder - A python geocoding abstraction layer
+https://github.com/azavea/climate-change-lab | azavea/climate-change-lab
+http://web.mit.edu/sustainabledesignlab/projects.html | Projects | MIT Sustainable Design Lab
+https://www.youtube.com/user/LastWeekTonight | LastWeekTonight - YouTube
+https://github.com/censusreporter/notebooks | censusreporter/notebooks: A collection of Jupyter notebooks demonstrating ways to analyze Census data
+https://github.com/datamade?page=9 | datamade
+https://datamade.us/ | Tell your story through data - DataMade
+https://www.google.com/search?q=acs+alchemist&oq=acs+alchemist&aqs=chrome..69i57j0l5.2828j0j7&sourceid=chrome&ie=UTF-8 | acs alchemist - Google Search
+http://lumify.io/docs/ | Lumify Documentation
+https://github.com/geocommons?tab=repositories | geocommons (GeoCommons and GeoIQ) / Repositories
+https://www.washingtonpost.com/express/wp/2016/04/11/regulatory-science-degrees-help-researchers-think-outside-the-lab/?tid=a_inl | Regulatory science degrees help researchers think outside the lab - The Washington Post
+https://www.ngdc.noaa.gov/mgg/bathymetry/lidar.html | LIDAR Data Archive, Topographic Change Mapping Project | NCEI
+https://coast.noaa.gov/dataservices/Metadata/TransformMetadata?u=http://coast.noaa.gov/data/Documents/Metadata/Imagery/harvest/CCAP_2010_Parent.xml&f=html | NOAA's Coastal Change Analysis Program (C-CAP) 2010 Regional Land Cover Data - Coastal United States
+http://www.datadrivenbuilding.org/DayFilter-Unsupervised-Pattern-Filtering | DayFilter: Unsupervised Pattern Filtering - Data Driven Buildings
+https://github.com/cmiller8?tab=repositories | cmiller8 (Clayton Miller) / Repositories
+https://www.researchgate.net/profile/Clayton_Miller2 | Clayton Miller (ETH Zurich, Zürich) on ResearchGate - Expertise: Data Mining, Architectural Engineering
+http://www.adonit.net/jot/dash/ | Fine Point Stylus for iPad, iPhone, and Android Devices | Jot Dash
+https://fossgeo.org/free-qgis-courses/ | Free QGIS Courses | GeoAcademy
+https://canvas.instructure.com/login/canvas#filter=type=inbox | Log In to Canvas
+http://www.birdseyeviewgis.com/published-papers/ | Birds Eye View GIS - Published Papers
+https://www.amazon.com/Mastering-QGIS-Kurt-GISP-Menke-ebook/dp/B00VGE69OA#nav-subnav | Amazon.com: Mastering QGIS eBook: Kurt Menke, GISP, Dr. Richard Smith Jr., GISP, Dr. Luigi Pirelli, Dr. John Van Hoesen, GISP: Kindle Store
+http://www.vox.com/2015/1/13/7520991/9-things-ive-learned-about-marriage-from-being-a-couples-therapist | 9 things I've learned about marriage from being a couples therapist - Vox
+http://dlab.berkeley.edu/dlab-campus-resources | Campus Resources | D-Lab
+
+https://www.washingtonpost.com/news/wonk/wp/2016/08/01/what-republicans-and-democrats-get-wrong-about-american-manufacturing/ | What Republicans and Democrats get wrong about American manufacturing - The Washington Post
+https://www.etsy.com/listing/286599247/temporary-tattoo-triathlon-tattoo-swim?ref=related-2 | Temporary tattoo / triathlon tattoo / swim bike run by TriJewelry
+https://www.momentaryink.com/faq/ | FAQs - Momentary InkMomentary Ink
+https://github.com/BuzzFeedNews | BuzzFeedNews
+https://github.com/DrSkippy?tab=repositories | DrSkippy (Scott Hendrickson) / Repositories
+https://github.com/uwescience | UW eScience Institute
+http://toddwschneider.com/ | Todd W. Schneider
+https://github.com/fivethirtyeight/uber-tlc-foil-response | fivethirtyeight/uber-tlc-foil-response: Uber trip data from a freedom of information request to NYC's Taxi & Limousine Commission
+http://www.thepennyhoarder.com/50-make-extra-money/?aff_id=4&utm_source=facebook&utm_medium=paid&payout=.08 | 50 Ways to Make Money in 2016 That You've Never Heard Of
+http://cagrimmett.com/til/ | Today I Learned | Chuck Grimmett
+https://jigjids.files.wordpress.com/2011/05/introduction-to-econometric-2nd.pdf | introduction-to-econometric-2nd.pdf
+https://ocw.mit.edu/courses/sloan-school-of-management/15-988-system-dynamics-self-study-fall-1998-spring-1999/readings/economics.pdf | economics.pdf
+http://web.mit.edu/urban_or_book/www/book/index.html | Urban Operations Research by Larson/Odoni
+http://silas.psfc.mit.edu/22.15/lectures/chap1.xml | chap1.xml
+https://ocw.mit.edu/courses/engineering-systems-division/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/readings/ | Readings | Models, Data and Inference for Socio-Technical Systems | Engineering Systems Division | MIT OpenCourseWare
+http://www.planetizen.com/node/88071/study-electric-cars-can-handle-87-percent-trips | Study: Electric Cars Can Handle 87 Percent of Trips | Planetizen: The independent resource for people passionate about planning and related fields
+http://www.nature.com/articles/nenergy2016112 | Potential for widespread electrification of personal vehicle travel in the United States : Nature Energy
+http://www.huffingtonpost.com/2015/05/19/americas-oldest-park-ranger_n_7314424.html | America's Oldest Park Ranger, 93, Is A Fierce Advocate For Young Women Of Color Everywhere | Huffington Post
+http://www.iflscience.com/editors-blog/see-if-you-can-solve-these-6-fiendish-brain-teasers-written-by-nsa-employees/ | See If You Can Solve These 6 Fiendish Brain-Teasers Written By NSA Employees | IFLScience
+http://www.menshealth.com/fitness/100-rep-burpee-pullup-challenge?utm_source=facebook.com&utm_medium=Social&utm_term=559519495&utm_campaign=--Fitness--------- | The 100-Rep Burpee-Pullup Challenge | Men's Health
+https://www.kennedy-center.org/wno/simulcast | Opera in the Outfield - Washington National Opera | The John F. Kennedy Center for the Performing Arts
+http://giscommons.org/introduction-concepts/ | GIS Commons: A Free eText about Geographic Information Systems | Michael Schmandt
+https://gis.e-education.psu.edu/ | Online Geospatial Education Program Office
+http://containertutorials.com/get_started/index.html | Getting Started — Container Tutorials
+https://www.eventbrite.com/e/arcadia-fall-harvest-farm-dinner-tickets-27361844012 | Arcadia Fall Harvest Farm Dinner Tickets, Sun, Oct 9, 2016 at 4:00 PM | Eventbrite
+http://www.vox.com/2015/9/11/9301089/911-survivor-recovery | I helped 9/11 survivors recover. The worst part came 6 months after. - Vox
+https://store.cardsagainsthumanity.com/ | Cards Against Humanity Store
+http://www.menshealth.com/sex-women/call-off-engagement?utm_source=facebook.com&utm_medium=Social&utm_term=577906520&utm_campaign=Men%27s%20Health | How to Break Off an Engagement | Men's Health
+http://trancik.mit.edu/publications/ | publications | Trancik Lab
+https://idss.mit.edu/research/ | Research – IDSS
+http://cces-kacst-mit.org/ | Center for Complex Engineering Systems | Center for Complex Engineering System
+http://dusp.mit.edu/ | MIT Department of Urban Studies and Planning
+http://web.mit.edu/SustainableDesignLab/ | MIT Sustainable Design Lab
+http://www.ll.mit.edu/ | MIT Lincoln Laboratory
+https://www.cuttlesoft.com/the-how-and-why-of-flask-bitmapist/ | The How and Why of Flask-Bitmapist - Cuttlesoft
+http://ieeexplore.ieee.org/document/7450141/?reload=true | IEEE Xplore Document - Urban Street Lighting Infrastructure Monitoring Using a Mobile Sensor Platform
+
+https://github.com/gboeing/urban-data-science/blob/master/17-Leaflet-Web-Mapping/pandas-to-geojson.ipynb | urban-data-science/pandas-to-geojson.ipynb at master · gboeing/urban-data-science
+http://mappingmashups.net/2012/11/30/a-very-short-introduction-to-qgis/ | A very short introduction to QGIS
+https://www.gislounge.com/essays-on-geography-and-gis/ | Essays on Geography and GIS ~ GIS Lounge
+https://canvas.instructure.com/courses/941260/pages/textbook-recommendations?module_item_id=7352478 | Textbook Recommendations: GST 101: Introduction to Geospatial Technology
+https://github.com/gboeing | gboeing (gboeing)
+https://egeriicw.carto.com/viz/fc2fc1ec-7789-11e6-91ca-0e3ebc282e83/public_map | Academy
+https://carto.com/academy/courses/academy-lite/cartocss/ | Academy Lite — CartoCSS — The Map Academy — CARTO
+http://ual.berkeley.edu/people.html | People - Urban Analytics Lab
+http://www.huguedata.com/blog | Will's Blog
+https://github.com/whugue?tab=overview&from=2016-08-01&to=2016-08-31&utf8=%E2%9C%93 | whugue (Will Huguenin)
+http://www.thisismetis.com/ | Metis
+http://allendowney.blogspot.com/ | Probably Overthinking It
+http://lorenabarba.com/blog/a-collaboration-to-issue-badges-in-numericalmooc/ | A collaboration to issue badges in #numericalmooc :: Lorena A. Barba Group
+http://openedx.seas.gwu.edu/accounts/login?next=/courses/GW/MAE6286/2014_fall/courseware/9db220161df94f3a80e44ee70974a17a/b8cf84326aab465b9415afbb91764a4e/ | Sign in or Register | GW Open edX
+http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf | Python-for-Computational-Science-and-Engineering.pdf
+http://faculty.washington.edu/rjl/fdmbook/ | Randy LeVeque -- Finite Difference Methods for ODEs and PDEs
+https://www.coursera.org/browse?languages=en&source=deprecated_spark_cdp | Browse | Coursera
+https://www.edx.org/ | edX | Free online courses from the world's best universities
+https://www.coursera.org/browse?languages=en&source=deprecated_spark_cdp | Browse | Coursera
+https://github.com/dlab-berkeley/python-intensive | dlab-berkeley/python-intensive
+http://software-carpentry.org/lessons/ | Our Lessons
+https://geocoding.geo.census.gov/geocoder/Geocoding_Services_API.html | https://geocoding.geo.census.gov/geocoder/Geocoding_Services_API.html
+https://batchgeo.com/ | BatchGeo: Create an interactive map from your data
+http://www.openheatmap.com/ | OpenHeatMap
+http://colorbrewer2.org/#type=qualitative&scheme=Paired&n=7 | ColorBrewer: Color Advice for Maps
+https://peak5390.wordpress.com/2012/12/08/mapping-global-earthquake-activity-a-matplotlib-basemap-tutorial/ | Mapping Global Earthquake Activity: A matplotlib Basemap tutorial | peak 5390
+http://introtopython.org/visualization_earthquakes.html | Introduction to Python: An open resource for students and teachers
+https://www.cicerodata.com/api/ | Cicero - API - Address-based legislative district matching, elected official lookup, election data worldwide
+http://www.techsoup.org/products/--G-46237-- | Cicero API – 5,000 Credits
+https://trac.osgeo.org/geos | GEOS
+http://www.datadrivenbuilding.org/ | Data Driven Buildings
+https://github.com/cs109/2015 | cs109/2015: Public material for CS109
+http://www.urban.org/about/careers | Urban Institute Jobs & Careers | Urban Institute
+https://github.com/cmiller8?tab=repositories | cmiller8 (Clayton Miller) / Repositories
+http://www.systems.arch.ethz.ch/ | Homepage English – Chair of Architecture and Building Systems | ETH Zurich
+https://plus.google.com/+JoshEstelle/posts/1mYzdE5KKgv | Google Drive Tip Syncing multiple accounts to one computer with Google Drive ...
+https://www.odrive.com/upgrade | Upgrade to Premium sync experience | odrive
+https://www.enotrans.org/projects-overview/ | Projects - The Eno Center for Transportation
+http://www.womenshealthmag.com/beauty/why-some-women-are-more-prone-to-acne?utm_source=facebook&utm_medium=social&utm_campaign=greatist.com | Why Some Women Break Out All the Time | Women's Health
+https://drive.google.com/file/d/0B3MlJFkbbvAESTAxbktqWmFIR3M/view | NAD Developers Challenge Overview.pdf - Google Drive
+https://geofeedia.com/ | Location-Based Intelligence Platform by Geofeedia
+https://www.mapillary.com/ | Mapillary - Crowdsourced Street Photos
+https://www.google.com/search?q=mapitude&oq=mapitude&aqs=chrome..69i57j0l5.2966j0j7&sourceid=chrome&ie=UTF-8#q=maptitude | maptitude - Google Search
+http://www.caliper.com/ | Caliper - Mapping Software, GIS, and Transportation Software
+
+http://www.fastcoexist.com/3059853/the-best-states-and-cities-for-the-clean-tech-economy?utm_content=bufferfd5a1&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer | The Best States And Cities For The Clean Tech Economy | Co.Exist | ideas + impact
+https://www.washingtonpost.com/news/the-switch/wp/2016/06/10/the-pentagon-wants-to-cozy-up-to-silicon-valley-heres-one-big-thing-keeping-them-apart/?hpid=hp_regional-hp-cards_rhp-card-technology%3Ahomepage%2Fcard | The huge issue that’s keeping Silicon Valley and the Pentagon apart - The Washington Post
+http://images.elephantjournal.com/wp-content/uploads/2014/03/11014934_892463620843762_2891273686836246482_n.jpg | 11014934_892463620843762_2891273686836246482_n.jpg (750×750)
+http://download.audible.com/product_related_docs/BK_HACH_002201.pdf | BK_HACH_002201.pdf
+https://www.washingtonpost.com/news/soloish/wp/2016/06/03/he-dumped-me-in-a-rude-way-was-it-partly-my-fault/?hpid=hp_weekend-chain_soloish-feature1-0604%3Ahomepage%2Fstory | He dumped me in a rude way. Was it partly my fault? - The Washington Post
+https://www.buzzfeed.com/sallytamarkin/the-deal-with-body-fat?utm_term=.viEk3yb4n#.hdLMvoYw0 | Here’s Everything You Need To Know To Actually Lose Body Fat
+http://www.pooreconomics.com/about-book | Poor Economics | Poor Economics
+http://ddot.dc.gov/sites/default/files/dc/sites/ddot/publication/attachments/dc_bike_map_2012_full_version.pdf | http://ddot.dc.gov/sites/default/files/dc/sites/ddot/publication/attachments/dc_bike_map_2012_full_version.pdf failed to load
+http://lifehacker.com/how-i-finally-organized-my-messy-inbox-with-sortd-1754956174 | How I Finally Organized My Messy Inbox with Sortd
+https://sortd.freshdesk.com/support/solutions/6000056809 | Help with the Sortd Smart Skin for Gmail : Help Desk
+https://www.nordstromrack.com/shop/Men/Clothing/Shirts/Dress%20Shirt?brands%5B%5D=Nordstrom&brands%5B%5D=Nordstrom+Rack&sort=featured&includePersistent=true&includeFlash=false | Dress Shirts for Men | Nordstrom Rack
+https://www.rei.com/product/896799/mountain-summit-gear-3-piece-backpacker-hard-anodized-cookset?cm_mmc=aff_AL-_-11453-_-14989-_-NA&avad=14989_cb89bd2b&CA_6C15C=120217890002277484 | Mountain Summit Gear 3-Piece Backpacker Hard-Anodized Cookset - REI.com
+http://www.sierratradingpost.com/barnburners/?avad=14989_db892d1f&utm_source=www.gearscan.com&utm_medium=Affiliate_AvantLink&utm_campaign=Affiliate&codes-processed=true | LEKI Cristallo Anti-Shock Trekking Poles - Save 64%
+http://www.sierratradingpost.com/sports-and-outdoors~d~4868/clearance~1/ | Sports & Outdoors on Clearance: Average savings of 69% at Sierra Trading Post
+http://www.washingtonpost.com/wp-dyn/content/article/2010/04/29/AR2010042901530.html | Washington area bike trails: Beach Drive and Rock Creek Trail
+http://www.menshealth.com/sex-women/how-to-marry-woman-of-dreams | How to Marry the Woman of Your Dreams, According to 12 Guys Who Did It
+https://stacksocial.com/sales/acesori-5-piece-smartphone-camera-lens-kit-w-cleaning-cloth-carrying-pouch?aid=a-a6bl7rbm&utm_source=kinjadeals.com&utm_medium=referral&utm_campaign=acesori-5-piece-smartphone-camera-lens-kit-w-cleaning-cloth-carrying-pouch_061916 | Acesori 5 Piece Smartphone Camera Lens Kit | StackSocial
+http://www.spatialanalysisonline.com/HTML/index.html | Geospatial Analysis 5th Edition, 2015
+http://www.tunnelsup.com/setting-up-postgres-on-mac-osx | Setting up PostgreSQL on Mac OSX - TunnelsUP
+http://postgis.net/docs/manual-2.2/PostGIS_FAQ.html#faq_how_to_define_geometry_table | Chapter 3. PostGIS Frequently Asked Questions
+http://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page | PLUTO and MapPLUTO
+http://docs.qgis.org/2.0/en/docs/training_manual/basic_map/symbology.html | 2. Lesson: Symbology
+http://www.overstock.com/Sports-Toys/The-Art-of-Storage-Michelangelo-2-bike-Gravity-Stand/6470356/product.html?refccid=ZSFFKQJT4TTKWZSL6D4ZBODLIA&searchidx=0 | The Art of Storage Michelangelo 2-bike Gravity Stand - 14065878 - Overstock.com Shopping - Great Deals on The Art of Storage Bike Racks & Storage
+https://nextcity.org/daily/entry/dc-bikeshare-data-riders-use-system | Watch How Different Riders Use Capital Bikeshare – Next City
+http://mobilitylab.org/2016/06/21/capital-bikeshare-gps-data-trips/ | Bikeshare GPS insights highlight differences across trip types
+http://www.bicycling.com/bikes-gear/news/12-easy-ways-to-save-money-on-cycling/slide/4 | 12 Easy Ways to Save Money on Cycling : Look for Discounted Gear Online and at Bike Swaps | Bicycling
+http://www.bicycling.com/bikes-gear/maintenance/25-cycling-upgrades-for-25-or-less/slide/10 | 25 Cycling Upgrades for $25 or Less! : Reduce Pedal Play | Bicycling
+http://www.overstock.com/Clothing-Shoes/Mens-Skechers-Citywalk-Malton-Brown/9635733/product.html | Men's Skechers Citywalk Malton Brown - 16820565 - Overstock.com Shopping - Great Deals on Skechers Work Shoes
+http://www.pcmag.com/article2/0,2817,2478213,00.asp | The Ultimate Cord Cutter's Guide | PCMag.com
+http://askubuntu.com/questions/453801/ubuntu-14-04-64bit-computer-shuts-down-by-itself | 64 bit - Ubuntu 14.04 64bit - computer shuts down by itself - Ask Ubuntu
+http://dailyburn.com/life/fitness/beginners-guide-triathlon-training/ | A Beginner’s Guide to Triathlon Training - Life by Daily Burn
+http://www.fao.org/docrep/005/y4475e/y4475e07.htm | 3. ECONOMETRIC MODELS FOR CONSUMPTION ANALYSIS
+https://ideas.repec.org/p/dpc/wpaper/1209.html | Estimation of Food Demand from Household Survey Data in Vietnam
+https://cbrownley.wordpress.com/2016/06/26/parsing-pdfs-in-python-with-tika/ | Parsing PDFs in Python with Tika | Clinton Brownley's Decision Analytics
+https://www.washingtonpost.com/news/soloish/?nid=menu_nav_lifestyle-solo-ish | Solo-ish - The Washington Post
+http://well.blogs.nytimes.com/2015/10/26/the-ambivalent-marriage-takes-a-toll-on-health/?_r=2 | The Ambivalent Marriage Takes a Toll on Health - The New York Times
+http://www.nytimes.com/2016/05/29/opinion/sunday/why-you-will-marry-the-wrong-person.html?_r=3 | Why You Will Marry the Wrong Person - The New York Times
+https://www.dom.com/library/domcom/pdfs/virginia-power/plugged-in.pdf?la=en | plugged-in.pdf
+https://www.dom.com/library/domcom/pdfs/virginia-power/electric-vehicle-brochure.pdf?la=en | electric-vehicle-brochure.pdf
+https://henrico.us/pdfs/purchasing/bids/9637WRFDominionPowerbills.pdf | 9637WRFDominionPowerbills.pdf
+http://ultimatepaleoguide.com/56-tips-starting-paleo-diet/ | 56 Tips For Starting The Paleo Diet / Ultimate Paleo Guide
+https://www.amazon.com/gp/product/B0176B90JW/ref=s9_simh_gw_g79_i1_r?ie=UTF8&fpl=fresh&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=desktop-3&pf_rd_r=XZTQJGCA4S1XF767D83V&pf_rd_t=36701&pf_rd_p=5ad2fdd5-705b-4bfa-bd27-caa71187d834&pf_rd_i=desktop | Amazon.com: Farberware Pro Spiraletti Spiral Vegetable Slicer with Three Blades: Kitchen & Dining
+http://thesweethome.com/reviews/best-running-watch/ | The Best GPS Running Watch | The Sweethome
+http://thesweethome.com/ | Home | The Sweethome
+http://thesweethome.com/reviews/emergency-preparedness/ | The Best Emergency Preparedness Supplies | The Sweethome
+https://www.amazon.com/Oster-BLSTAJ-CB-Blender-6-Cup-Glass/dp/B005PODTUY/ref=cm_wl_huc_item | Amazon.com: Oster BLSTAJ-CB Blender 6-Cup Glass Jar - Black Lid: Kitchen & Dining
+http://www.iflscience.com/health-and-medicine/14-surprising-psychological-reasons-someone-might-fall-in-love-with-you/ | 14 Surprising Psychological Reasons Someone Might Fall In Love With You | IFLScience
+http://www.menshealth.com/fitness/fast-strength-workout | Fast Workout That Builds Muscle | Men's Health
+https://www.amazon.com/Lessons-History-Will-Durant/dp/143914995X?ie=UTF8&camp=1789&creative=9325&creativeASIN=143914995X&linkCode=as2&linkId=QJWXOIGD4AEOP3TL&redirect=true&ref_=as_li_qf_sp_asin_il_tl&tag=farnamstreet-20 | The Lessons of History: Will Durant, Ariel Durant: 9781439149959: Amazon.com: Books
+https://www.amazon.com/Essays-Warren-Buffett-Lessons-Corporate/dp/1611634091 | The Essays of Warren Buffett: Lessons for Corporate America, Third Edition: 9781611634099: Economics Books @ Amazon.com
+https://www.amazon.com/Berkshire-Hathaway-Letters-Shareholders-Buffett/dp/0615975070/ref=dp_ob_title_bk | Berkshire Hathaway Letters to Shareholders: Warren Buffett, Max Olson: 9780615975078: Amazon.com: Books
+https://www.amazon.com/gp/offer-listing/1578644283/ref=dp_olp_new?ie=UTF8&condition=new | Amazon.com: Buying Choices: Seeking Wisdom: From Darwin to Munger, 3rd Edition
+https://hbr.org/2016/07/slow-deciders-make-better-strategists?utm_campaign=HBR&utm_source=facebook&utm_medium=social | Slow Deciders Make Better Strategists
+http://greatist.com/happiness/tricks-to-sleep-in-the-heat?utm_source=facebook&utm_medium=opengraph&utm_campaign=tricks-to-sleep-in-the-heat&sr_share=facebook | 24 Tricks to Survive Hot Summer Nights (Without AC) | Greatist
+http://thematinggrounds.com/helping-joe-episode-29-part-1/ | Helping Joe, Episode 29 Part 1 | MatingGrounds
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=timer | timer - Google Search
+http://energy.gov/ | Department of Energy
+http://www.energy.gov/podcasts/direct-current-energygov-podcast | Direct Current - An Energy.gov Podcast | Department of Energy
+https://www.amazon.com/b/ref=gbps_ftr_m-5_c722_page_3?ie=UTF8&node=13887280011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=H4M4VZY9ZDH69M0CW94M&pf_rd_t=101&pf_rd_p=befd7e4e-db39-4a3b-8c7a-595fb8a4c722&pf_rd_i=13887280011&gb_f_olsspotlight=dealStates:AVAILABLE%252CWAITLIST%252CWAITLISTFULL%252CUPCOMING%252CEXPIRED%252CSOLDOUT,sortOrder:BY_SCORE,MARKETING_ID:pdSpotlight,widgetCurrentTab:2&gb_f_GB-SUPPLE=page:3,sortOrder:BY_SCORE,MARKETING_ID:PD16%252Cjuly12devices,dealStates:AVAILABLE%252CWAITLIST%252CWAITLISTFULL%252CUPCOMING,enforcedCategories:1055398,dealsPerPage:24 | Amazon.com | Prime Day
+https://www.amazon.com/CAP-Barbell-40--Pounds-Kettlebell/dp/B003J9LZE4/ref=lp_12648022011_1_2?s=sports-and-fitness&ie=UTF8&qid=1468383028&sr=1-2 | Amazon.com : CAP Barbell 40 -Pounds Kettlebell : Kettlebell Weights : Sports & Outdoors
+https://www.amazon.com/Cento-Skinless-Boneless-Sardines-4-375-Ounce/dp/B0014H18L8/ref=sr_1_1_a_it?ie=UTF8&qid=1468381989&sr=8-1&keywords=cento+sardines | Amazon.com : Cento Skinless & Boneless Sardines in Olive Oil, 4.375-Ounce Tins (Pack of 25) : Packaged Meats And Seafoods : Grocery & Gourmet Food
+http://fourhourworkweek.com/ | Tim Ferriss and The 4 Hour Workweek
+http://fourhourworkweek.com/2016/04/25/my-10-favorite-purchases-in-10-months/ | My 10 Favorite Purchases in 10 Months | The Blog of Author Tim Ferriss
+http://www.apple.com/support/macbookpro-videoissues/ | MacBook Pro Repair Extension Program for Video Issues - Apple Support
+http://www.paleocupboard.com/stuffed-sunburst-squash.html | Paleo Stuffed Sunburst Squash Recipe - Paleo Cupboard
+http://paleoleap.com/chicken-asparagus-carbonara/ | Chicken Asparagus Carbonara | Paleo Leap
+
+http://ir.amwater.com/Cache/1500083300.PDF?Y=&O=PDF&D=&fid=1500083300&T=&iid=4004387 | 404 - File or directory not found.
+https://blackboard.gwu.edu/webapps/login/?new_loc=%2Fwebapps%2Fdiscussionboard%2Fdo%2Fconference%3Ftoggle_mode%3Dread%26action%3Dlist_forums%26course_id%3D_262934_1%26nav%3Ddiscussion_board_entry | Blackboard Learn
+https://www.fhwa.dot.gov/environment/climate_change/adaptation/adaptation_framework/modules/index.cfm?moduleid=2#matrix | Modules - Adaptation Framework - Adaptation - Transportation Climate Change - Environment - FHWA
+https://blackboard.gwu.edu/bbcswebdav/pid-7055769-dt-content-rid-16234734_2/courses/74854_201601/Final%20Exam%20-%20FHWA%20Design%20Criteria.pdf | Microsoft Word - Final Exam - FHWA Design Criteria.docx
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=04-W-1221 | 04-W-1221 - Google Search
+file:///Users/egeriicw/Downloads/%7BCE3D5647-781B-4B5A-9753-29AE9550A00F%7D.pdf | {CE3D5647-781B-4B5A-9753-29AE9550A00F}.pdf
+https://www.washingtonpost.com/regional/?reload=true | The Washington Post: National, World & D.C. Area News and Headlines - The Washington Post
+https://www.netflix.com/watch/70304938?trackId=13589554 | Netflix
+https://www.1800flowers.com/webapp/wcs/stores/servlet/FDOrderConfirmationCmd?catalogId=&langId=-1&storeId=20051&krypto=H1%2Fgrkdsz4q0heup8UBGGbRWZspsIYbYZpipMQyeBnYbO%2BsZb7gBe2ogHECYJL5WtureAo6kAj0j%0AfTSNA5nmsS%2BQlgBSlJ92GJrWbOh%2FtJOgFhQJ5M7ADJqOdhNZ4%2B0UIjKhssUeWud8qmVHCTDEGs7F%0AWtj4WTE5UKycJaW26%2FRnmdd%2FUm5uC3MgdJBXkhBJ&ddkey=https%3APlaceOrder | Order Confirmation
+http://www.nature.com/nature/journal/v533/n7601_supp/full/533S20a.html | Assessment: Academic return : Nature : Nature Publishing Group
+https://www.facebook.com/ | Facebook
+
+http://tntcat.iiasa.ac.at/RcpDb/dsd?Action=htmlpage&page=download | RCP Database
+http://www.bangladesh.gov.bd/site/view/ministry_n_directorate_list/Ministries-and-Divisions | Ministries and Divisions | People's Republic of Bangladesh | গণপ্রজাতন্ত্রী বাংলাদেশ সরকার
+http://www.mincom.gov.bd/ | Ministry of Commerce- | বাণিজ্য মন্ত্রণালয়-
+http://www.banglapedia.net/Atlas/bangladesh.htm | bangladesh
+http://www.fao.org/geonetwork/srv/en/ | GeoNetwork - The portal to spatial data and information
+http://pubs.usgs.gov/of/1997/ofr-97-470/OF97-470H/ | Geologic and Geophysical Data of Bangladesh - USGS OF97-470H
+https://en.wikipedia.org/wiki/Bangladesh#Economy | Bangladesh - Wikipedia, the free encyclopedia
+https://www.washingtonpost.com/blogs/liveblog-live/liveblog/updates-d-c-metro-shutdown/?hpid=hp_rhp-top-table-high_metro-liveblog-6pm%3Aliveblog%2Fpromo#60ff65c1-49b4-4cb1-90cc-a4ce36578b7a | Updates: D.C. Metro shutdown - The Washington Post
+http://greatergreaterwashington.org/post/30108/why-washingtons-transportation-is-a-problem-in-one-map/ | Why Washington's transportation is a problem, in one map - Greater Greater Washington
+http://www.citylab.com/commute/2016/03/metro-wmata-dc-shutdown/473910/?utm_source=atlfb | D.C's Metrorail System Will Shut Down for 24 Hours. It Should Consider Closing for a Lot Longer - CityLab
+http://www.rand.org/pubs/research_reports/RR1000.html?utm_source=facebook.com&utm_medium=rand_social | The Power to Coerce: Countering Adversaries Without Going to War | RAND
+http://xfinitytv.comcast.net/watch/Anthony-Bourdain%3A-No-Reservations/5112047750193048112/full-episodes?cid=customer#episode=6643940449036989112 | Anthony Bourdain: No Reservations - Watch TV Shows Online at XFINITY TV
+https://www.netflix.com/search/no%20res/suggestion/1 | Netflix
+http://www.amazon.com/b/ref=br_imp_ara-1?_encoding=UTF8&lo=fashion&node=13938251011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=desktop-hero-softlines&pf_rd_r=12REDKC5GRHCTDGXG8FX&pf_rd_t=36701&pf_rd_p=2434457842&pf_rd_i=desktop | Amazon.com: The Spring Suit: Clothing, Shoes & Jewelry
+http://www.amazon.com/gp/product/B001C2LGPI/ref=crt_ewc_title_gw_2?ie=UTF8&psc=1&smid=ATVPDKIKX0DER | Amazon.com: SOG Specialty Knives & Tools E37SN-CP Seal Pup Elite Knife with Straight Edge Fixed 4.85-Inch Steel Blade and GRN Handle, Black TiNi Finish: Home Improvement
+http://www.amazon.com/dp/B00OGO9V6K/ref=wl_it_dp_o_pC_nS_img?_encoding=UTF8&colid=10H6RO54PZBED&coliid=I1IV0EJ3MFGP1Q&psc=1 | Amazon.com : TravTac Stage I Premium Small EDC Tactical Sling Pack 900D (Ranger Green) - Includes Emergency Blanket : Sports & Outdoors
+http://www.womenshealthmag.com/sex-and-love/relationship-doomed-if-libidos-are-not-compatible?cid=Soc_Facebook_Greatist_03142016 | Is Your Relationship Doomed if Your Sex Drives Aren’t Compatible? : Is Your Relationship Doomed if Your Sex Drives Aren’t Compatible? | Women's Health
+http://www.menshealth.com/fitness/3-workouts-that-are-better-than-running?cid=SOC_sp_MH | 3 Outdoor Workouts That Are Better Than Running | Men's Health
+http://www.economist.com/news/business-and-finance/21694972-they-need-fall-have-real-impact-climate-change-worlds-carbon?fsrc=gp_en?fsrc=scn/fb/te/bl/ed/theworldscarbondioxideemissionshavestabilised | The world’s carbon-dioxide emissions have stabilised | The Economist
+http://shop.beerandbrewing.com/collections/frontpage/products/print-subscription-to-craft-beer-brewing-magazine-including-renewals?variant=893169655 | Print Subscription to Craft Beer & Brewing Magazine – Craft Beer & Brewing Shop
+https://www.instagram.com/quiltingquickly/ | Lauren (@quiltingquickly) • Instagram photos and videos
+http://meridianuniversity.edu/public-programs/online-courses/thriving-on-complexity-online-course | Meridian University - Thriving on Complexity: Online Course
+http://www.menshealth.com/health/ways-to-be-healthier?cid=soc_Men%27s%20Health%20-%20MensHealth_FBPAGE_Men%27s%20Health__ | 21 Easy Ways to Improve Your Health | Men's Health
+http://www.scientificamerican.com/article/keeping-up-with-the-joneses-in-bed/ | Keeping Up with the Joneses--in Bed - Scientific American
+http://greatist.com/live/bad-habits-to-break-before-you-turn-30?utm_source=facebook&utm_medium=opengraph&utm_campaign=bad-habits-to-break-before-you-turn-30&sr_share=facebook | Bad Habits to Break Before You Turn 30 | Greatist
+http://greatist.com/move/abs-workout-best-stability-ball-moves-for-your-core?utm_source=facebook&utm_medium=opengraph&utm_campaign=abs-workout-best-stability-ball-moves-for-your-core&sr_share=facebook | Abs Workout: Best Stability Ball Moves for Your Core | Greatist
+http://www.bustle.com/articles/144497-how-to-increase-intimacy-in-your-sex-life?utm_source=facebook&utm_medium=partnerships&utm_campaign=menshealth&cid=soc_Men%27s%20Health%20-%20MensHealth_FBPAGE_Men%27s%20Health_ThirdPartyonly:Bustle_ | How To Increase Intimacy In Your Sex Life | Bustle
+https://nextcity.org/daily/entry/smart-device-data-smart-meters-utilities | This Sensor Could Cut Through Data Clutter of Smart Meters – Next City
+http://greatist.com/move/abs-workout-best-stability-ball-moves-for-your-core?utm_source=facebook&utm_medium=opengraph&utm_campaign=abs-workout-best-stability-ball-moves-for-your-core&sr_share=facebook | Abs Workout: Best Stability Ball Moves for Your Core | Greatist
+http://www.shape.com/fitness/training-plans/your-12-week-sprint-triathlon-training-schedule | Sprint Triathlon Training Plan for Women | Shape Magazine
+http://www.menshealth.com/fitness/lower-body-workout-without-back-squats?cid=soc_Men%27s%20Health%20-%20MensHealth_FBPAGE_Men%27s%20Health__ | How to Get a Great Lower-Body Workout Without Back Squats | Men's Health
+http://www.travelchannel.com/shows/anthony-bourdain/video/no-reservations-full-episodes | No Reservations Full Episodes : Travel Channel
+http://www.cnn.com/shows/anthony-bourdain-parts-unknown | Anthony Bourdain Parts Unknown - CNN.com
+http://www.match.com/SearchReskin/?st=Q&CLR=true&lid=2 | Search : Match.com
+http://www.menshealth.com/nutrition/ultimate-omega-3-breakfast?cid=soc_Men%27s%20Health%20-%20MensHealth_FBPAGE_Men%27s%20Health__ | Try This Spin on the Egg-In-a-Hole Breakfast | Men's Health
+http://greatist.com/live/life-advice-stop-stressing-about-things-you-cant-control?utm_source=facebook&utm_medium=opengraph&utm_campaign=life-advice-stop-stressing-about-things-you-cant-control&sr_share=facebook | Life Advice: How to Stop Stressing About Things You Can't Control | Greatist
+http://bigthink.com/ideafeed/going-off-the-pill-changes-womens-satisfaction-with-their-relationship?utm_campaign=Echobox&utm_medium=Social&utm_source=Facebook#link_time=1459348515 | Going Off the Pill Changes Women's Satisfaction With Their Relationship | Big Think
+https://www.underarmour.com/en-us/outlet?cid=MMF|EM|MFPal|Dedicated|Outlet|April|CoG|03_29_16|US|MK|Legacy_12&mkt_tok=3RkMMJWWfF9wsRoluK%2FPZKXonjHpfsX96egtUaW0h4kz2EFye%2BLIHETpodcMT8RnNa%2BTFAwTG5toziV8R7DBLM153N8QXRTg | Under Armour Outlet | Sale Items Priced to Perform
+http://nymag.com/thecut/2016/02/political-power-single-women-c-v-r.html | Single Women Are Our Most Potent Political Force -- The Cut
+http://greatist.com/play/relationship-rules-to-break?utm_source=facebook&utm_medium=opengraph&utm_campaign=relationship-rules-to-break&sr_share=facebook | These Dating Rules Are Actually Ruining Your Game | Greatist
+http://www.menshealth.com/guy-wisdom/how-to-invest-100-bucks?cid=soc_Men%27s%20Health%20-%20MensHealth_FBPAGE_Men%27s%20Health__ | Rich Guys Reveal How They’d Invest $100 | Men's Health
+http://www.menshealth.com/fitness/10-exercises-that-burn-more-calories-than-running/cindy | 10 Cardio Exercises That Will Burn More Calories Than Running : “Cindy” | Men's Health
+http://broadbandnow.com/report/municipal-broadband-roadblocks/ | Municipal Broadband Roadblocks - Broadband Now
+http://udquickly.udayton.edu/scribblings/2016/04/ethos-team-presents-solar-fridge-in-dc/ | » ETHOS team presents Solar Fridge in DC UDQuickly
+http://www.menshealth.com/cook-chisel-fast-lean/cook-chisel-fast-lean-how-it-works | Cook & Chisel: How It Works | Men's Health
+https://www.washingtonpost.com/news/soloish/?hpid=hp_weekend-chain_soloish-feature2-xxxx%3Ahomepage%2Fstory | Solo-ish - The Washington Post
+https://www.ncdc.noaa.gov/sotc/global/201513 | Global Analysis - Annual 2015 | State of the Climate | National Centers for Environmental Information (NCEI)
+https://www.washingtonpost.com/news/soloish/?nid=menu_nav_lifestyle-solo-ish | Solo-ish - The Washington Post
+http://road.cc/content/buyers-guide/179465-buying-your-first-road-bike-%E2%80%94-everything-you-need-know | Buying your first road bike — everything you need to know | road.cc
+https://sofrep.com/51705/u-s-navy-leap-frogs-behind-scenes/ | Watch: U.S. Navy Leap Frogs - Behind The Scenes | SOFREP
+https://www.washingtonpost.com/news/soloish/?nid=menu_nav_lifestyle-solo-ish | Solo-ish - The Washington Post
+http://www.nytimes.com/subscriptions/Multiproduct/lp8QH64.html?articleId=8&WT.mc_id=2016-CPLTEST-FB-MC8-10 | The New York Times: Get a Digital Subscription
+http://skepticalscience.com/ | Global Warming and Climate Change skepticism examined
+
+https://www.cia.gov/library/publications/the-world-factbook/geos/bg.html | The World Factbook
+http://www.ibfb.org/index.php?option=com_content&view=article&id=23&Itemid=56 | Bangladesh - Major Sectors of Economy
+http://hdr.undp.org/en/countries/profiles/BGD | | Human Development Reports
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=economy+adaptation+bangladesh&start=20 | economy adaptation bangladesh - Google Search
+https://www.weadapt.org/sites/weadapt.org/files/legacy-new/knowledge-base/files/5174ad6de9152vietnam-bangladesh-v12-web-version.pdf | 5174ad6de9152vietnam-bangladesh-v12-web-version.pdf
+https://en.wikipedia.org/wiki/Ecological_values_of_mangroves | Ecological values of mangroves - Wikipedia, the free encyclopedia
+http://eprints.lse.ac.uk/39939/1/__lse.ac.uk_storage_LIBRARY_Secondary_libfile_shared_repository_Content_Bowen,%20A_Climate%20change_Bowen_Climate%20change_2015.pdf | __lse.ac.uk_storage_LIBRARY_Secondary_libfile_shared_repository_Content_Bowen, A_Climate change_Bowen_Climate change_2015.pdf
+http://www.plancomm.gov.bd/wp-content/uploads/2013/09/National-Sustainable-Development-Strategy.pdf | National-Sustainable-Development-Strategy.pdf
+http://www.unpei.org/sites/default/files/e_library_documents/Mainstreaming%20Climate%20Change%20Resilience%20into%20development%20planning%20in%20Bangladesh.pdf | Mainstreaming Climate Change Resilience into development planning in Bangladesh.pdf
+https://en.wikipedia.org/wiki/Water_supply_and_sanitation_in_Bangladesh | Water supply and sanitation in Bangladesh - Wikipedia, the free encyclopedia
+http://adb.org/sites/default/files/pub/2011/adapting-climate-change-ban.pdf | Adapting to Climate Change: Strengthening the Climate Resilience of Water Sector Infrastructure in Khulna, Bangladesh
+https://www.washingtonpost.com/regional/?reload=true | The Washington Post: National, World & D.C. Area News and Headlines - The Washington Post
+http://www.cnn.com/shows/race-for-the-white-house | Race for the White House - CNN.com
+
+http://www.nytimes.com/2016/03/02/world/middleeast/osama-bin-laden-materials-declassified.html?smid=fb-share&_r=1 | Osama bin Laden Feared Wife’s Tooth Held a Tracking Device - The New York Times
+http://shop.udayton.edu/columbia%C2%AE-dayton-freeze-degree-12-zip-pullover | Columbia® Dayton Freeze Degree 1/2 Zip Pullover | University of Dayton
+http://twp.duke.edu/uploads/media_items/research-questions.original.pdf | research-questions.original.pdf
+http://usdn.org/tags/152 | Items tagged "Sustainable Economic Development" - Urban Sustainability Directors Network
+http://www-ramanathan.ucsd.edu/files/brt18.pdf | brt18.pdf
+http://www-ramanathan.ucsd.edu/files/pr60.pdf | pr60.pdf
+https://api.mendeley.com/oauth/authorize?client_id=1360&redirect_uri=https%3A%2F%2Fwww.mendeley.com%2Flibrary%2FoauthCallback&response_type=code&scope=all | Mendeley Authorization
+http://www.topbestalternatives.com/2015/top-7-best-alternatives-to-mendeley/ | Top 7 Best Alternatives to Mendeley : Top Best Alternatives
+http://endnote.com/product-details | Product Details | EndNote | Thomson Reuters
+http://www.proquest.com/products-services/refworks.html | RefWorks | Web-Based Reference Management Solution - RefWorks
+http://www.papersapp.com/mac/ | Papers for Mac
+https://community.mendeley.com/ | Mendeley Advisor Program | Mendeley
+https://www.washingtonpost.com/news/soloish/wp/2016/03/03/podcast-how-one-couple-tested-themselves-for-marriage/ | Podcast: How this couple tested themselves for marriage - The Washington Post
+https://vimeo.com/themarriagetest | The Marriage Test on Vimeo
+http://themarriagetestbook.com/ | The Marriage Test | our 40 dates before "i do"
+http://bestself.co/products/self-journal?utm_source=Facebook&utm_medium=cpc&utm_campaign=Breakdown%2BVideo | SELF Journal – BestSelfCo
+https://www.touchofmodern.com/sales/7329?no_wall=1&first_sale_id=7329&utm_source=facebook&utm_medium=desktop&utm_content=Link-M-US-CA-18+&utm_campaign=DL_-_Cut_Maps_1_-_2-25-16 | Cut Maps - TouchOfModern
+http://www.theatlantic.com/entertainment/archive/2012/01/john-steinbeck-on-falling-in-love-a-1958-letter/251375/?utm_source=SFFB | John Steinbeck on Falling in Love: A 1958 Letter - The Atlantic
+https://www.washingtonpost.com/regional/ | The Washington Post: National, World & D.C. Area News and Headlines - The Washington Post
+https://members.zipcar.com/reservations/reserve | Reserve a Zipcar
+https://www.washingtonpost.com/regional/?reload=true | The Washington Post: National, World & D.C. Area News and Headlines - The Washington Post
+http://greatist.com/live/relationship-advice-is-being-friends-with-an-ex-ever-ok?utm_source=facebook&utm_medium=opengraph&utm_campaign=relationship-advice-is-being-friends-with-an-ex-ever-ok&sr_share=facebook | Relationship Advice: Is Being Friends with an Ex Ever OK? | Greatist
+https://thrivemarket.com/giftbox/cocohome | Thrive Market
+http://www.audible.com/mt/TimsBooks?bp_ua=yes&source_code=AUDGBWS1110159FHI | Download Audiobooks with Audible.com
+http://ipcc.ch/report/ar5/wg3/ | Fifth Assessment Report - Mitigation of Climate Change
+http://ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_summary-for-policymakers.pdf | ipcc_wg3_ar5_summary-for-policymakers.pdf
+https://blackboard.gwu.edu/webapps/bb-mygrades-bb_bb60/myGrades?course_id=_262934_1&stream_name=mygrades&is_stream=false | My Grades – 201601_Science of Climate Change_PSUS_6221_UP
+https://blackboard.gwu.edu/bbcswebdav/pid-7055795-dt-content-rid-15183971_2/courses/74854_201601/Lecture%206%2C%20Projections%2C%20Summer%202015.pdf | Lecture 6, Projections, Spring 2016
+http://biocycle.atmos.colostate.edu/toy-models/ | BioCycle: Denning Research Group - Toy Models
+http://biocycle.atmos.colostate.edu/shiny/Layers/ | N-Layer Blackbody Atmosphere
+http://biocycle.atmos.colostate.edu/shiny/2layer/ | 2-Layer Atmosphere with Solar, Longwave, & Convection
+http://iacweb.ethz.ch/php/toa/toa.php | Top of the atmosphere cloud radiative forcing
+http://iacweb.ethz.ch/php/toa/help.html | Help
+https://www.e-education.psu.edu/meteo469/node/213 | The "Kaya Identity" | METEO 469: From Meteorology to Mitigation: Understanding Global Warming D7
+http://climatemodels.uchicago.edu/kaya/kaya.html | KAYA IDENTITY Calculator
+https://search.gwu.edu/search?site=gw_main_VCM&client=gw_main_VCM&proxystylesheet=phase2fe&output=xml_no_dtd&q=environment+focus+population&ie=UTF-8&ulang=en&ip=161.253.2.252&access=p&sort=date:D:L:d1&entqr=0&entqrm=0&entsp=a__gw_main_VCM&wc=200&wc_mc=1&oe=UTF-8&ud=1&start=20 | Search Results: environment focus population
+
+http://feelingfroggyincorporated.tumblr.com/post/88199774165/michael-koch-was-born-on-may-12-1978-on-offutt | It pays to be a winner — Michael Koch was born on May 12, 1978, on Offutt...
+https://egeriicw.asuscomm.com:8999/notebooks/Learning/__GWU__/PSUS6211/bangladesh_population/Untitled.ipynb?kernel_name=python2 | Untitled
+https://egeriicw.asuscomm.com:8999/tree/Learning/__GWU__/PSUS6211/bangladesh_population# | PSUS6211/bangladesh_population/
+http://www.prb.org/Publications/Datasheets/2015/2015-world-population-data-sheet.aspx | 2015 World Population Data Sheet
+http://www.prb.org/wpds/2015/ | 2015 World Population Data Sheet – PRB.org
+http://www.prb.org/Publications/Datasheets/2015/2015-world-population-data-sheet/world-map.aspx#map/world/population/2015 | 2015 World Population Interactive Map
+http://www.bpdb.gov.bd/bpdb/index.php?option=com_content&view=article&id=149&Itemid=29 | Environmental Consideration
+https://en.wikipedia.org/wiki/Paul_Krugman | Paul Krugman - Wikipedia, the free encyclopedia
+http://www.thewaywemet.com/blog/ | blog — THE WAY WE MET
+http://fivethirtyeight.com/features/how-data-nerds-found-a-131-year-old-sunken-treasure/?ex_cid=538fb | How Data Nerds Found A 131-Year-Old Sunken Treasure | FiveThirtyEight
+http://greatist.com/happiness/camping-taught-me-life-062513?utm_source=facebook&utm_medium=opengraph&utm_campaign=camping-taught-me-life-062513&sr_share=facebook | 11 Powerful Life Lessons I Learned From Camping in the Woods | Greatist
+http://fivethirtyeight.com/features/how-many-parents-to-be-want-to-know-the-babys-sex/?ex_cid=538fb | How Many Parents-To-Be Want To Know The Baby’s Sex? | FiveThirtyEight
+http://techcrunch.com/2016/02/23/facebook-is-using-ai-to-build-the-worlds-most-detailed-population-map/ | Facebook Is Using AI To Build The World’s Most Detailed Population Map | TechCrunch
+https://www.thrillist.com/culture/the-17-best-anthony-bourdain-quotes | The 17 Best Anthony Bourdain Quotes
+http://wtop.com/nfl/2016/02/how-well-have-nfl-teams-drafted-quarterbacks-since-2000/slide/1/ | How well have NFL teams drafted quarterbacks since 2000? - WTOP
+http://news.mit.edu/2016/mit-researchers-create-citywide-building-energy-model-boston-0222 | MIT researchers create citywide building energy model for Boston | MIT News
+https://www.facebook.com/topic/Warren-Buffett/105592802806886?source=whfrt&position=1&trqid=6256145056570100062 | Warren Buffett - Facebook Search
+http://www.nytimes.com/2016/02/28/business/dealbook/buffett-in-annual-letter-rejects-candidates-message-of-us-decline.html?smid=fb-nytimes&smtyp=cur&_r=0 | Warren Buffett, in Annual Letter, Rejects Candidates’ Message of U.S. Decline - The New York Times
+http://greatist.com/happiness/blocked-chakra-holding-you-back-happy-life?utm_source=facebook&utm_medium=opengraph&utm_campaign=blocked-chakra-holding-you-back-happy-life&sr_share=facebook | Is a Blocked Chakra Holding You Back From a Happy Life? | Greatist
+http://www.businessinsider.com/the-13-best-google-chrome-life-hacks-2015-11 | The 13 best Google Chrome hacks - Business Insider
+https://en.wikipedia.org/wiki/United_States_Army_Command_and_General_Staff_College | United States Army Command and General Staff College - Wikipedia, the free encyclopedia
+https://www.google.com/search?q=Nicolas+Checque&tbm=isch&imgil=DyvfiAYRudhuaM%253A%253BpXz6_oAtIYX_KM%253Bhttp%25253A%25252F%25252Fwww.independent.co.uk%25252Fnews%25252Fobituaries%25252Fnicolas-checque-soldier-whose-death-raised-awkward-questions-8434226.html&source=iu&pf=m&fir=DyvfiAYRudhuaM%253A%252CpXz6_oAtIYX_KM%252C_&usg=__SKMrk7iqMfS1s3eemK6q5b8KGCQ%3D&biw=1456&bih=826&ved=0ahUKEwjAzJvaqJnLAhWKNSYKHa_iCJUQyjcIKg&ei=007SVoCXD4rrmAGvxaOoCQ#imgrc=GMAK1kzWoNP_EM%3A | Nicolas Checque - Google Search
+https://www.tumblr.com/search/patrick%20d.%20feeks | patrick d. feeks | Tumblr
+http://feelingfroggyincorporated.tumblr.com/ | It pays to be a winner
+https://en.wikipedia.org/wiki/Invictus | Invictus - Wikipedia, the free encyclopedia
+https://society6.com/committeeonopprobriations/framed-prints | Framed Art Prints by Committee On Opprobriations | Society6
+https://www.holstee.com/products/holstee-manifesto-poster | The Holstee Manifesto Original Letterpress Poster | Holstee
+https://www.pinterest.com/search/pins/?q=the%20invitation&rs=typed&0=the%20invitation%7Ctyped | Pinterest: Discover and save creative ideas
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=the%20invitation%20poem | the invitation poem - Google Search
+http://www.virginiaskydivingcenter.com/ | Skydiving, Tandem Experience & Freefall in Virginia Beach, VA | Virginia Skydiving Center
+http://dcist.com/2015/03/the_best_tattoo_shops_in_the_dc_are.php | The Best Tattoo Shops In The D.C. Area: DCist
+http://www.artofmanliness.com/citizenship-in-a-republic-by-theodore-roosevelt/ | "Citizenship in a Republic" by Theodore Roosevelt | The Art of Manliness
+https://www.etsy.com/shop/catalyst54?ref=listing-shop-header-item-count | Word Art Prints Defying Gravity Design by catalyst54 on Etsy
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=trident%20crossfit%20cost | trident crossfit cost - Google Search
+https://secure.capitalone360.com//myaccount/banking/logout.vm?action=9999&migration=true | Capital One 360 - Login - Logout
+http://my.xfinity.com/?cid=cust | http://my.xfinity.com/?cid=cust is not available
+http://www.xfinity.com/Corporate/shop/productoverview.html | Comcast Deals, Offers, Specials and Promotions | XFINITY®
+https://oams.statefarm.com/auth/UI/Login?pageFlow=timeout | Logged Out - Login - State Farm®
+https://www.bogleheads.org/forum/viewtopic.php?t=51874 | Car insurance cancelled--suspended for too long? - Bogleheads.org
+http://www.amazon.com/Easy-Home-Bluetooth-Digital-Smartphones/dp/B00KGQ5562/ref=sr_1_2_s_it?s=hpc&ie=UTF8&qid=1456636970&sr=1-2&keywords=body+fat+scales | Amazon.com: Easy@Home Bluetooth Body Fat Digital Scale with App for Smartphones and Tablets: Health & Personal Care
+http://monetgoghsip.net/calendar.php?mon=4&year=2016&calendarid=1 | Paint, Sip and Celebrate! - Alexandria, VA
+https://ufcgym.com/classes/youth-brazilian-jiu-jitsu-gi | Kids Jiu-Jitsu Classes & Training | Gym & Fitness | UFC GYM
+http://www.amazon.com/Under-Armour-Leggings-Small-Graphite/dp/B00NAIG76A/ref=sr_1_2?dd=C7G4pDx4aETaHbsx_WXwUw%2C%2C&ie=UTF8&qid=1456637729&sr=8-2&keywords=under+armour+running+pants+men&refinements=p_96%3A10155283011 | Amazon.com: UA Men's HeatGear Armour Compression Leggings: Sports & Outdoors
+https://www.runragnar.com/event-detail/relay/dc | Ragnar
+http://www.verizonwireless.com/ | Cell Phones, Smartphones & the Largest 4G LTE Network - Verizon Wireless
+http://www.pcmag.com/article2/0,2817,2375644,00.asp#group1 | The Best Cheap Cell Phone Plans You've Never Heard Of | PCMag.com
+http://www.popsugar.com/love | POPSUGAR Love
+http://www.theatlantic.com/business/archive/2015/11/work-life-balance-pew-report/414028/?utm_source=SFFB | Pew's Study on Work-Life Balance for Families With Two Parents - The Atlantic
+http://www.theatlantic.com/international/archive/2015/02/five-bad-american-habits-i-kicked-in-finland/385140/?utm_source=SFFB | The Bad American Habits I Kicked in Finland - The Atlantic
+http://www.nytimes.com/2016/02/28/opinion/sunday/what-women-find-in-friends-that-they-may-not-get-from-love.html?action=click&pgtype=Homepage&clickSource=story-heading&module=opinion-c-col-left-region&region=opinion-c-col-left-region&WT.nav=opinion-c-col-left-region&_r=0 | What Women Find in Friends That They May Not Get From Love - The New York Times
+https://www.harrys.com/ | Harry's - Quality Men’s Shaving Products. Fair Prices. Simple.
+http://www.amazon.com/Travel-Trac-Comp-Fluid-Trainer/dp/B017KYFFFI/ref=sr_1_fkmr0_1?ie=UTF8&qid=1456697900&sr=8-1-fkmr0&keywords=travel+trac+comp+mag+trainer | Amazon.com : Travel Trac Comp Fluid Trainer : Sports & Outdoors
+http://www.amazon.com/Speedo-Endurance-Polyester-Jammer-Swimsuit/dp/B000YZO1D8/ref=sr_1_9?ie=UTF8&qid=1456698217&sr=8-9&keywords=speedo | Amazon.com : Speedo Men's Endurance+ Polyester Solid Jammer Swimsuit : Athletic Swim Jammers : Sports & Outdoors
+http://www.artofmanliness.com/2013/02/28/mornin-bodyweight-workout/ | Bodyweight Workout For Your Morning Routine | The Art of Manliness
+http://iacweb.ethz.ch/php/toa/toa.php | Top of the atmosphere cloud radiative forcing
+https://en.wikipedia.org/wiki/Ronald_Fisher | Ronald Fisher - Wikipedia, the free encyclopedia
+http://earthobservatory.nasa.gov/Features/Clouds/ | Clouds & Radiation Fact Sheet : Feature Articles
+http://thesweethome.com/reviews/the-best-bathroom-scales/ | The Best Bathroom Scales | The Sweethome
+http://www.amazon.com/Withings-WS-50-Smart-Analyzer-Black/dp/B00BKRQ4E8/ref=cm_cr_arp_d_product_top?ie=UTF8 | Amazon.com: Withings WS-50 Smart Body Analyzer, Black: Health & Personal Care
+http://greatist.com/ | Greatist | Health and Fitness News, Tips, Recipes, and Exercises
+https://www.facebook.com/PopSugarFitness/videos/10154057688409367/ | 1 Move to Transform Your Entire Body — We're All In! - PopSugar Fitness
+http://www.popsugar.com/love/Signs-He-Gentleman-36374499?ref=40332598 | Signs He's a Gentleman | POPSUGAR Love & Sex
+http://qz.com/626482/neuroscience-says-these-five-rituals-will-help-your-brain-stay-young/?utm_source=atlfb | Neuroscience says these five rituals will help your brain stay in peak condition - Quartz
+http://www.iflscience.com/technology/syrians-are-using-raspberry-pi-computers-broadcast-independent-radio-through-conflict | Syrians Are Using Raspberry Pi Computers To Broadcast Independent Radio | IFLScience
+
+https://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_Chapter01_FINAL.pdf | WG1AR5_Chapter01_FINAL.pdf
+https://blackboard.gwu.edu/webapps/blackboard/content/listContent.jsp?course_id=_262934_1&content_id=_7055758_1&mode=reset | Class Materials – 201601_Science of Climate Change_PSUS_...
+https://blackboard.gwu.edu/bbcswebdav/pid-7055798-dt-content-rid-15183934_2/courses/74854_201601/Models%20Available%20on%20the%20Web.pdf | Microsoft Word - Models Available on the Web.docx
+http://biocycle.atmos.colostate.edu/shiny/Layers/#rce.R | N-Layer Blackbody Atmosphere
+http://ipcc.ch/report/ar5/wg1/ | Fifth Assessment Report - Climate Change 2013
+http://ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_Chapter07_FINAL.pdf | WG1AR5_Chapter07_FINAL.pdf
+http://www.climatechange2013.org/ | IPCC Working Group I
+http://edgcm.columbia.edu/documentation/EdGCM_Workshop_Guide_2011.pdf | EdGCM_Workshop_Guide_2011.pdf
+http://www.csun.edu/climate/math483/EdGCMbooklet.pdf | EdGCMbooklet.pdf
+http://serc.carleton.edu/eet/globecarbon/all_parts.html | Step-by-Step Instructions
+https://eos.org/research-spotlights/low-altitude-clouds-play-an-important-role-in-a-changing-climate | Low-Altitude Clouds Play an Important Role in a Changing Climate - Eos
+https://www.washingtonpost.com/regional/ | The Washington Post: National, World & D.C. Area News and Headlines - The Washington Post
+https://en.wikipedia.org/wiki/Modus_tollens | Modus tollens - Wikipedia, the free encyclopedia
+https://blackboard.gwu.edu/bbcswebdav/pid-7124313-dt-content-rid-15362472_2/courses/77587_201601/psus_6211_s16.pdf | psus_6211_s16
+http://www.tridentcrossfitva.com/getting-started | Getting Started - Trident CrossFit
+
+http://www2.gwu.edu/~newsctr/MCS_Publications/techKNOW_Spring2016/html5/index.html?page=1 | techKNOW 2015
+http://www.washingtonian.com/2016/01/12/70-breweries-around-washington-heres-map/ | There Are 70 Breweries Around Washington. Here's a Map of All of Them | Washingtonian
+https://www.youtube.com/watch?v=8eVGh-y3L8w | Building A Home Draft System - YouTube
+https://github.com/katerabinowitz/Breweries | katerabinowitz/Breweries
+http://gis.ucla.edu/apps/textmapper/map/b89a1b42 | Countries in State of the Union Speeches, 1989-2016 | TextMapper
+http://shouldistayorshouldigo.net/chapter2.pdf | chapter2.pdf
+https://www.brewersassociation.org/directories/breweries/ | Breweries - Brewers Association
+https://www.brewersassociation.org/tag/brewpubs/ | Educational Resources for Brewpubs
+http://www.artofmanliness.com/ | The Art of Manliness
+http://www.artofmanliness.com/2008/05/14/100-must-read-books-the-essential-mans-library/ | 100 Must Read Books: The Man's Essential Library | The Art of Manliness
+http://www.artofmanliness.com/2015/09/28/100-skills-every-man-should-know/ | 100 Skills Every Man Should Know | The Art of Manliness
+http://www.artofmanliness.com/2015/02/05/how-to-develop-the-situational-awareness-of-jason-bourne/ | How to Develop the Situational Awareness | The Art of Manliness
+https://www.washingtonpost.com/lifestyle/magazine/where-to-find-washingtons-new-chinatown-little-ethiopia-etc/2016/02/17/39824eee-d5bd-11e5-b195-2e29a4e13425_story.html?hpid=hp_local-news_ethiceats_mag_1230pm%3Ahomepage%2Fstory | Where to find Washington’s new Chinatown, Little Ethiopia, etc. - The Washington Post
+https://bonobos.com/shop/shirts/sweaters | Sweaters | Bonobos
+https://blackboard.gwu.edu/webapps/discussionboard/do/forum?action=list_threads&nav=discussion_board_entry&course_id=_262934_1&conf_id=_313899_1&forum_id=_422502_1 | Forum: Term Paper - Your Experiment! – 201601_Science of...
+https://blackboard.gwu.edu/bbcswebdav/pid-7055801-dt-content-rid-15313715_2/courses/74854_201601/GWU%20Course%20Syllabus%20spring%202016%2C%20R%20Jonassen%2C%20V2.pdf | Microsoft Word - GWU Course Syllabus spring 2016, R Jonassen, V2.docx
+https://blackboard.gwu.edu/bbcswebdav/pid-7055772-dt-content-rid-15183931_2/courses/74854_201601/Activity%20--%20Experiment%20with%20the%20Carbon%20Cycle.pdf | Microsoft Word - Activity -- Experiment with the Carbon Cycle.docx
+http://biocycle.atmos.colostate.edu/teaching/ | BioCycle: Denning Research Group - Teaching
+https://www.google.com/search?q=regrowth+sink+strength&oq=regrowth+sink+strength&aqs=chrome..69i57.3363j0j4&sourceid=chrome&es_sm=91&ie=UTF-8#q=regrowth+sink+strength&start=10 | regrowth sink strength - Google Search
+http://nextcenturycities.org/2016/02/22/exciting-new-fiber-deployment-model-from-google-fiber-announced/ | Exciting New Fiber Deployment Model from Google Fiber Announced — Next Century Cities
+https://www.sciencedaily.com/releases/2015/07/150728101207.htm | Climate models disagree on strength of carbon land sink across northern Eurasia: Climate scientist says models underestimate region's sequestration -- ScienceDaily
+http://www.biogeosciences.net/12/4385/2015/ | BG - Abstract - Assessment of model estimates of land-atmosphere CO2 exchange across Northern Eurasia
+http://ipcc.ch/report/ar5/wg1/ | Fifth Assessment Report - Climate Change 2013
+
+http://shouldistayorshouldigo.net/ | Should I Stay or Should I Go? By Lundy Bancroft and JAC Patrissi
+http://gis.ucla.edu/resources/tutorials | Tutorials | Geospatial @ UCLA
+http://seekabrew.com/distro/index.html?b=Hill%20Farmstead | SeekABrew US Distribution Map
+https://www.washingtonpost.com/news/soloish/wp/2016/02/11/why-you-shouldnt-watch-rom-coms-on-valentines-day/ | Why you shouldn’t watch rom-coms on Valentine’s Day - The Washington Post
+https://www.rodaleu.com/courses/mens-power-21-day-power-yoga-transformation?utm_source=MensHealth&utm_medium=print&utm_campaign=MensHealth | Men's Health 21-Day Power Yoga Transformation - Rodale
+http://vudlab.com/#/workouts | Visualizing Urban Data ideaLab
+https://www.google.com/search?q=gis+professional+associations&rlz=1CDGOYI_enUS644US644&oq=gis+professional+&aqs=chrome.3.69i57j0l3.6449j0j4&sourceid=chrome-mobile&ie=UTF-8&hl=en-US | gis professional associations - Google Search
+http://gis.ucla.edu/resources/tutorials | Tutorials | Geospatial @ UCLA
+https://beerandbrewing.com/VrIYQiIAAPFCQBsC/article/building-a-home-draft-system | Building A Home Draft System | Craft Beer & Brewing Magazine
+http://www.stat.cmu.edu/~cshalizi/uADA/13/ | 36-402, Undergraduate Advanced Data Analysis (2013)
+https://www.google.com/search?q=python+time+series+analysis&rlz=1CDGOYI_enUS644US644&oq=python+time+series&aqs=chrome.1.69i57j0l3.9808j0j8&sourceid=chrome-mobile&ie=UTF-8&hl=en-US#q=python+time+series+analysis&hl=en-US&prmd=ivn&start=10 | python time series analysis - Google Search
+http://www.nerdfitness.com/ | Nerd Fitness: Helping You Lose Weight, Get Stronger, Live Better.
+http://www.wired.com/2016/01/the-metastructure-transportation/ | Welcome to the Metastructure: The New Internet of Transportation | WIRED
+http://nbviewer.jupyter.org/url/norvig.com/ipython/Scrabble.ipynb | Jupyter Notebook Viewer
+http://www.datalensdc.com/index.html | DataLensDC: The District through Data
+http://www.automatedbuildings.com/editors/jmcgowan.htm | AutomatedBuildings.com Contributing Editor - John J. "Jack" McGowan
+http://idtlabs.sl/services/#infrastructure | Services – iDT Labs
+http://greatist.com/happiness/journaling-makes-breakup-harder-120412 | News: Journaling About a Breakup Might Make It Harder to Move On | Greatist
+http://redrobin.authenticmerch.com/product/red-robin-seasoning/ | Red Robin Seasoning | Red Robin: Retail Store
+http://www.overstock.com/Home-Garden/ABBYSON-LIVING-Two-tone-Brown-Plush-Shag-Rug/7623345/product.html?refccid=WRLGUMVMEELYTK2PBPIANQQ3YU&searchidx=2 | ABBYSON LIVING Two-tone Brown Plush Shag Rug - 15043452 - Overstock Shopping - Great Deals on Abbyson Living 7x9 - 10x14 Rugs
+http://www.target.com/c/area-rugs-home-decor/-/N-56duf#navigation=true&category=269002&view_type=medium&sort_by=Featured&facets=d_size_abn%3A6'x9'&offset=0&pageCount=60&page=1&response_group=Items%2CVariationSummary&zone=PLP&isLeaf=true&custom_price=false&min_price=from&max_price=to | Area Rugs : Target
+http://home.woot.com/plus/bedroom-tvs-such?ref=hm_cnt_wp_10 | Bedroom TVs & Such - Home.Woot
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=ikea | ikea - Google Search
+https://www.google.com/search?q=rugs+under+beds&espv=2&biw=1510&bih=826&tbm=isch&imgil=flotxskuUaLKEM%253A%253B4ess_8_ITapOdM%253Bhttp%25253A%25252F%25252Fthedecorologist.com%25252Fwhat-size-rug-do-i-need-for-my-bedroom%25252F&source=iu&pf=m&fir=flotxskuUaLKEM%253A%252C4ess_8_ITapOdM%252C_&usg=__UYK0M2RZL9GLaQFTU1ctdD0d9lo%3D&ved=0ahUKEwjJitOG44fLAhVM7SYKHW18AJYQyjcIMQ&ei=FhzJVsmnGMzamwHt-IGwCQ#imgrc=_ | rugs under beds - Google Search
+http://kotaku.com/ask-dr-nerdlove-my-girlfriend-won-t-stop-cheating-on-1760124909 | Ask Dr. NerdLove: My Girlfriend Won’t Stop Cheating On Me With Her Ex
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=cupum | cupum - Google Search
+https://bonobos.com/shop/new-arrivals | New Arrivals | Bonobos
+http://2.highperformanceacademy.com/5x50-a | 5x50 Formula for Productivity, from High Performance Academy
+http://www.dcimprov.com/home/beginning-ulrich-april.html | Improv class
+http://www.tridentcrossfitva.com/resources | Resources - Trident CrossFit
+http://journal.crossfit.com/start.tpl?version=CFJ-white123x63 | Welcome to the CrossFit Journal - CrossFit Journal
+https://github.com/opentripplanner/OpenTripPlanner | opentripplanner/OpenTripPlanner: An open source multi-modal trip planner
+http://vudlab.com/#/workouts | Visualizing Urban Data ideaLab
+http://ryanholiday.net/from-zero-to-50000-how-i-built-a-big-email-list-exclusively-about-books-i-liked/ | From Zero to 50,000: How I Built A Big Email List Exclusively About Books I Liked | RyanHoliday.netFrom Zero to 50,000: How I Built A Big Email List Exclusively About Books I Liked - RyanHoliday.net
+
+http://hortonworks.com/hadoop-tutorial/simulating-transporting-realtime-events-stream-apache-kafka/ | Realtime Event Processing in Hadoop with Storm and Kafka - Hortonworks
+http://www.woodindustry.com/woodworkers/Master/7597.html | american elm workshops
+http://www.brickowl.com/ | Brick Owl | Brick Owl - LEGO Marketplace
+http://vudlab.com/#/learn | Visualizing Urban Data ideaLab
+http://vudlab.com/#/workouts | Visualizing Urban Data ideaLab
+http://tributary.io/ | Tributary
+https://research.wealthfront.com/whitepapers/tax-optimized-direct-indexing/ | Wealthfront’s Tax-Optimized Direct Indexing | Wealthfront Whitepapers
+http://www.wired.com/category/wiredinsider | WIRED Insider | WIRED
+http://www.wired.com/tag/longreads | longreads | WIRED
+https://www.tensorflow.org/versions/master/get_started/index.html | Introduction
+http://lifehacker.com/5763170/how-to-secure-and-encrypt-your-web-browsing-on-public-networks-with-hamachi-and-privoxy | How to Secure and Encrypt Your Web Browsing on Public Networks (with Hamachi and Privoxy)
+http://www.vertabelo.com/blog/technical-articles/database-design-for-the-dental-office | Database Design for the Dental Office
+http://shop.bentonscountryham.com/ProductDetails.asp?ProductCode=hscb | Hickory Smoked Country Bacon (4 one pound packs)
+https://www.holstee.com/pages/manifesto?mbsy_source=3e62d176-9e84-4b66-8af4-732323fb0b31&utm_medium=link&utm_source=getamb&utm_content=manifesto&utm_campaign=brainpickings&campaignid=446&mbsy=7pD&mc_cid=4dfe385514&mc_eid=a31829c9bd | The Holstee Manifesto | Holstee
+https://www.reddit.com/r/Python/comments/3wa22v/120gb_csv_is_this_something_i_can_handle_in_python/ | 120gb csv - Is this something i can handle in python? : Python
+http://municipalsustainability.com/sustainablecity.htm | Municipal Sustainability Forum Free Webinars and Case studies
+http://atomic-athlete.com/vanguard/ | The Vanguard 2015
+http://loadoutroom.com/17686/emerson-knives-mini-cqc-15/ | Emerson Knives Mini CQC-15 | The Loadout Room
+http://www.artofmanliness.com/2008/12/08/gifts-for-men/ | Christmas Gifts for Men | The Art of Manliness
+http://www.lemproducts.com/category/s?keyword=dehydrator | Meat Processing Equipment | Sausage Making Supplies | LEM Products
+http://www.lemproducts.com/category/vacuum-sealers-bags/a | Vacuum Sealers & Bags | LEM Products
+http://www.homebrewfinds.com/2014/10/temperature-probe-place-to-immerse-or-not-to-immerse.html | Temperature Probe Placement – To Immerse or Not To Immerse? | Homebrew Finds
+https://www.thegreatcoursesplus.com/category/philosophy-religion-intellectual-history | Online Philosophy & Religion Courses | The Great Courses Plus
+http://www.utilitydive.com/news/beyond-fixed-charges-disruptive-challenges-author-charts-new-utility-pat/408971/ | Beyond fixed charges: 'Disruptive Challenges' author charts new utility path | Utility Dive
+http://quartzproject.org/q | Quartz - Open data for a healthier, more sustainable future.
+http://toddwschneider.com/archives/ | All Posts - Todd W. Schneider
+https://www.google.com/search?q=urban+planning+blogs&rlz=1CDGOYI_enUS644US644&oq=urban+planning+&aqs=chrome.0.69i59j69i57j0l2j69i61&sourceid=chrome-mobile&ie=UTF-8&hl=en-US | urban planning blogs - Google Search
+https://learn.wheelhouse.io/ | Wheelhouse
+http://www.thegreatcourses.com/ | The Great Courses
+https://powerhouse.solar/#intro | Powerhouse
+http://www.future-cities-lab.net/home | Home — Future Cities Lab
+http://cloudspace.com/blog/2014/03/25/creating-d3.js-charts-using-angularjs-directives/#.Vso3vpMrKJS | Cloudspace | Creating D3.js Charts using AngularJS Directives
+http://aceee.org/blog/2015/10/lower-savings-predicted-try | Lower savings than predicted? Try calibration | ACEEE
+http://journalismcourses.org/ID31015.html#register | Intermediate D3 for Data Visualization - Knight Center JournalismCourses.org
+http://www.energysmart.enernoc.com/understanding-triad-charges/ | Understanding Triad Charges - EnerNOC Blog
+http://www.energysmart.enernoc.com/the-data-science-behind-weather-normalization/ | The Data Science Behind Weather Normalization - EnerNOC Blog
+http://www.greendiamondsolutions.com/ | Green Diamond Solutions
+http://lifehacker.com/how-to-completely-anonymize-your-bittorrent-traffic-wit-5863380?utm_expid=66866090-68.Fycr7CNTRMO9chDASrU7Hg.0&utm_referrer=http%3A%2F%2Flifehacker.com%2Fwatch-the-original-star-wars-trilogy-as-it-was-before-g-1747927284 | How to Completely Anonymize Your BitTorrent Traffic with a Proxy
+https://www.google.com/search?q=siemens+center+for+urban&rlz=1CDGOYI_enUS644US644&oq=siemens+center+for+urban+&aqs=chrome..69i57&sourceid=chrome-mobile&ie=UTF-8&hl=en-US | siemens center for urban - Google Search
+https://w3.siemens.com/topics/global/en/intelligent-infrastructure/cities-on-the-move/Documents/Siemens-CyPT-City-Performance-Tool.pdf | Siemens-CyPT-City-Performance-Tool.pdf
+http://entouchcontrols.com/blog/ | Blog | EnTouch ControlsEnTouch Controls
+http://www.thetravelingwod.com/?m=1 | The Traveling WOD
+https://realpython.com/blog/python/dockerizing-flask-with-compose-and-machine-from-localhost-to-the-cloud/ | Dockerizing Flask with Compose and Machine - from localhost to the cloud - Real Python
+https://echo.epa.gov/facilities/facility-search/results | Facility Search Results | ECHO | US EPA
+http://fourhourworkweek.com/2016/02/16/scorpion/ | Meet “Scorpion,” The Real-Life Santa Claus with an IQ of 197 | The Blog of Author Tim Ferriss
+http://www.scorpioncomputerservices.com/scengen.html | ScenGen Product
+http://www.cgd.ucar.edu/cas/wigley/magicc/about.html | MAGICC/SCENGEN: About
+https://scholar.google.com/citations?user=V4JbMjgAAAAJ&cstart=80&pagesize=20 | Paul Waddell - Google Scholar Citations
+http://ced.berkeley.edu/ced/faculty-staff/paul-waddell | Paul-Waddell | UC Berkeley College of Environmental Design
+https://www.google.com/search?q=taxonomy+of+cities&rlz=1CDGOYI_enUS644US644&oq=taxonomy+of+cities&aqs=chrome..69i57.4724j0j8&sourceid=chrome-mobile&ie=UTF-8&hl=en-US#imgrc=_ | taxonomy of cities - Google Search
+http://apps.who.int/gho/data/node.country.country-BGD?lang=en | GHO | By country | Bangladesh - statistics summary (2002 - present)
+http://www.who.int/research/en/ | WHO | World Health Organization
+http://data.un.org/Data.aspx?d=POP&f=tableCode%3a240 | UNdata | record view | City population by sex, city and city type
+http://www.sjsu.edu/faculty/watkins/cohort.htm | The Cohort Survival Projection Method
+http://www.bbs.gov.bd/WebTestApplication/userfiles/Image/PopCenZilz2011/NRV-1Report2011.pdf | NRV-1Report2011.pdf
+http://www.bbs.gov.bd/PageWebMenuContent.aspx?MenuKey=445 | ..:: Bangladesh Bureau of Statistics ::..
+http://www.bbs.gov.bd/ | ..:: Bangladesh Bureau of Statistics ::..
+file:///Users/egeriicw/Downloads/ddi-documentation-english_microdata-1617.pdf | ddi-documentation-english_microdata-1617.pdf
+https://international.ipums.org/international/index.shtml | IPUMS International
+http://microdata.worldbank.org/index.php/home | Microdata Library Home
+https://www.cia.gov/library/publications/the-world-factbook/geos/bg.html | The World Factbook
+http://www.rather-be-shopping.com/blog/2016/01/21/secrets-to-saving-money-on-amazon/ | 8 Secrets to Saving Money on Amazon
+http://vitals.lifehacker.com/the-complicated-science-behind-when-babies-are-conceive-1759896897 | The Complicated Science Behind When Babies Are Conceived
+http://lifehacker.com/find-better-amazon-deals-by-checking-out-what-other-sho-1759244082 | Find Better Amazon Deals By Checking Out What Other Shoppers Bought
+http://shop.udayton.edu/category/flyer-wear/mens-apparel?page=3&attributes[2]=28&attributes[1]=&qty=1&op=Add%20to%20cart&form_build_id=form-kI_SP-FMSuzb9ErD89U1f5IF6h3qZQ4WRTNtmWwsRJI&form_id=uc_product_add_to_cart_form_36326 | Men's Apparel | University of Dayton
+http://www.ted.com/talks/hannah_fry_the_mathematics_of_love?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=talk&utm_term=math | Hannah Fry: The mathematics of love | TED Talk | TED.com
+http://www.ted.com/playlists/309/talks_on_how_to_make_love_last?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=playlist&utm_term=social-science | How to make love last | Playlist | TED.com
+https://www.youtube.com/watch?v=rudzYPHuewc | Winning at Rock Paper Scissors - Numberphile - YouTube
+http://www.ted.com/playlists/231/the_weird_science_of_love?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=playlist&utm_term=science | The weird science of love | Playlist | TED.com
+http://www.ted.com/playlists/143/in_the_mood_for_love | In the mood for love | Playlist | TED.com
+http://ideas.ted.com/why-you-should-not-try-to-be-the-perfect-lover/?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=ideas-blog&utm_term=social-science | Why you should never strive to be the perfect lover |
+https://www.ted.com/playlists/143/in_the_mood_for_love?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=playlist&utm_term=humanities | In the mood for love | Playlist | TED.com
+http://www.ted.com/playlists/254/talks_to_watch_when_someone_ju?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=playlist&utm_term=humanities | Talks to watch when someone just stomped on your heart | Playlist | TED.com
+http://www.ted.com/playlists/202/talks_that_just_might_save_you?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=playlist&utm_term=social-science | Talks that just might save your relationship | Playlist | TED.com
+http://www.ted.com/talks/alec_soth_stacey_baker_this_is_what_enduring_love_looks_like?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=talk&utm_term=humanities | Alec Soth + Stacey Baker: This is what enduring love looks like | TED Talk | TED.com
+http://ideas.ted.com/10-real-life-love-stories-thatll-grab-you-by-the-heart-from-storycorps/?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=ideas-blog&utm_term=humanities | 10 love stories that’ll grab you by the heart, from Storycorps |
+http://www.ted.com/talks/yann_dall_aglio_love_you_re_doing_it_wrong?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=talk&utm_term=social-science | Yann Dall'Aglio: Love -- you're doing it wrong | TED Talk | TED.com
+https://www.ted.com/talks/amy_webb_how_i_hacked_online_dating?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=talk&utm_term=math | Amy Webb: How I hacked online dating | TED Talk | TED.com
+http://www.ted.com/speakers/mandy_len_catron | Mandy Len Catron | Speaker | TED.com
+http://thelovestoryproject.ca/ | the love story project | on the dangers–and pleasures–of love stories
+http://bigthink.com/disruptive-demographics/why-people-of-all-ages-are-finding-love-sex-online?utm_campaign=Echobox&utm_medium=Social&utm_source=Facebook#link_time=1455580689 | Why People of All Ages Are Finding Love & Sex Online | Big Think
+https://www.washingtonpost.com/local/virginia-politics/the-boiler-may-fail-rafters-may-crack-alexandrias-city-hall-needs-cash-now/2016/02/14/dd5804dc-d0db-11e5-88cd-753e80cd29ad_story.html | The boiler may fail, rafters may crack; Alexandria’s City Hall needs cash now - The Washington Post
+http://www.ghtltd.com/project-showcase/building-energy/alexandria-city-hall-renovation-capital-planning-study | Alexandria City Hall Renovation | Capital Planning Study | GHT Limited
+http://www.homebrewersassociation.org/homebrew-recipe/thomas-jefferson-plug-nickel/ | Thomas Jefferson Plug Nickel - Beer Recipe - American Homebrewers Association
+http://greatist.com/live/why-am-i-not-happy-with-life?utm_source=facebook&utm_medium=opengraph&utm_campaign=why-am-i-not-happy-with-life&sr_share=facebook | Why Am I Not Happy With Life? | Greatist
+http://www.travelandleisure.com/articles/italian-cave-restaurant-Grotta-Palazzese?xid=soc_pd_fbSR_Feb16&sr_source=lift_facebook | Grotta Palazzese Restaurant | Travel + Leisure
+http://www.theatlantic.com/video/series/the-big-question/ | The Big Question - The Atlantic
+http://www.theatlantic.com/video/index/410392/can-single-people-be-happy/ | The Big Question From the Aspen Ideas Festival: Can Single People Be Happy? - The Atlantic
+http://www.theatlantic.com/video/index/404494/definition-of-happiness/ | The Big Question From the Aspen Ideas Festival: Is Our Definition of Happiness Changing? - The Atlantic
+http://www.theatlantic.com/video/index/401723/what-can-we-do-to-be-happier/ | The Big Question From the Aspen Ideas Festival: What Can We Do to Be Happier? - The Atlantic
+http://www.theatlantic.com/video/index/399893/what-is-happiness/ | The Big Question From the Aspen Ideas Festival: What Is Happiness? - The Atlantic
+http://joybird.com/all/ | View our Complete Collection of Custom Modern Furniture
+http://greatist.com/health/what%E2%80%99s-best-cooking-oil?utm_source=facebook&utm_medium=opengraph&utm_campaign=what%E2%80%99s-best-cooking-oil&sr_share=facebook | Best Cooking Oil Options | Greatist
+http://www.menshealth.com/fitness/daily-exercises?cid=SOC_sp_MH | The Exercises You Should Do Every Day | Men's Health
+http://www.artofmanliness.com/tag/craft-the-life-you-want/ | Craft The Life You Want | The Art of Manliness
+https://www.youtube.com/watch?v=uRCcf2Hj4vA&list=PLLIasrSrFGdTYlCjogVwKwsZCoZe6CIJ8&index=4 | Intro to Brazilian Jiu Jitsu: Part 4 -- The Philosophy - YouTube
+http://www.amazon.com/gp/registry/wishlist/10H6RO54PZBED/ref=topnav_lists_3 | Stuff
+http://www.artofmanliness.com/FCR/COOKBOOKCURRENT.pdf | COOKBOOKCURRENT.pdf
+http://www.chowhound.com/recipes/homerooms-classic-macaroni-and-cheese-30436 | Macaroni and Cheese Recipe - Chowhound
+http://www.pmi.org/certification/project-management-professional-pmp.aspx | Project Management Professional Certification | PMP
+http://www.pmi.org/~/media/PDF/Certifications/handbooks/project-management-professional-handbook-pmp.ashx | About PMI’s Credentials
+https://blackboard.gwu.edu/webapps/blackboard/execute/content/file?cmd=view&content_id=_7124313_1&course_id=_262765_1 | PSUS 6211 – 201601_Regional Development_PSUS_6211_UP
+https://blackboard.gwu.edu/bbcswebdav/pid-7124313-dt-content-rid-15362472_2/courses/77587_201601/psus_6211_s16.pdf | psus_6211_s16
+https://www.facebook.com/BigThinkdotcom/videos/10153419752138527/ | Big Think
+
+http://fourhourworkweek.com/ | Tim Ferriss and The 4 Hour Workweek
+http://fourhourworkweek.com/podcast/ | Podcast – The Tim Ferriss Show | The Blog of Author Tim Ferriss
+http://fourhourworkweek.com/2015/05/20/google-x/ | Is It Time to Kill Sacred Cows In Your Relationship? | The Blog of Author Tim Ferriss
+http://fourhourworkweek.com/2016/01/22/the-tao-of-seneca/ | The Tao of Seneca: Letters from a Stoic Master | The Blog of Author Tim Ferriss
+http://deals.kinja.com/save-300-on-nearly-any-configuration-of-apples-new-mac-1758655739?rev=1455252136416 | Save $300 On Nearly Any Configuration of Apple's New MacBook
+http://www.homebrewfinds.com/2016/02/free-book-with-new-or-renewed-aha-membership.html | Free Book with New or Renewed AHA Membership! | Homebrew Finds
+http://www.nytimes.com/subscriptions/Multiproduct/lp8QH64.html?articleId=3&WT.mc_id=2016-CPLTEST-FB-MC8-10 | The New York Times: Get a Digital Subscription
+http://fusion.net/story/266668/valentines-day-sex-babies/?utm_source=facebook&utm_medium=social&utm_campaign=fivethirtyeight | Why there aren’t more Valentine’s Day babies | Fusion
+http://sofrep.com/47645/navy-seal-author-brandon-webb-among-heroes-football-lessons-players-letters/ | Football coach uses Navy SEAL's Book 'Among Heroes' to teach players | SOFREP
+http://www.theatlantic.com/health/archive/2015/09/fuck-feelings/403792/?utm_source=SFFB | 'F*ck Feelings' Book Argues That Emotions Are Overrated - The Atlantic
+http://www.homebrewfinds.com/2016/02/raspberry-pi-for-temp-control-automation-digital-kegerator-more.html | Raspberry Pi (for temp control, automation, Digital Kegerator & more) | Homebrew Finds
+http://www.homebrewfinds.com/2016/02/ends-today-la-petite-orange-1-with-chocolate-milk-stout-purchase.html | Ends Today: La Petite Orange… $1 with Chocolate Milk Stout Purchase | Homebrew Finds
+http://www.northernbrewer.com/promotional-categories/la-petite-orange-for-just-1-with-purchase-of-chocolate-milk-stout | La Petite Orange for Just $1, with Purchase of Chocolate Milk Stout : Northern Brewer
+http://www.nytimes.com/section/magazine?hpw&rref&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well | The New York Times Magazine - The New York Times
+http://pjm.com/markets-and-operations | pjm.com/markets-and-operations
+http://www.menshealth.com/fitness/things-fittest-men-do-each-day | Daily Habits of the World’s Most In-Shape Men
+https://www.benning.army.mil/Infantry/RTB/StudentInformation/RangerSchoolPrep.html | The United States Army | Fort Benning | ARTB | Ranger School Prep
+https://www.benning.army.mil/infantry/rtb/content/PDF/Building%20Mental%20Toughness%20for%20Ranger%20School.pdf?9Oct2014 | Building Mental Toughness for Ranger School.pdf
+https://www.benning.army.mil/infantry/rtb/content/PDF/Ranger%20School%20Prep.pdf?25AUG2014.pdf | Ranger School Preparation
+https://www.benning.army.mil/infantry/rtb/content/PDF/Sample%20Ranger%20School%20Physical%20Training%20Program.pdf?2FEB2016 | Sample Ranger School Physical Training Program.pdf
+https://www.benning.army.mil/infantry/rtb/content/PDF/Ranger%20School%20Prep%201.1%20-%208%20weeks.pdf?2FEB2016 | Strength Programs
+http://press.princeton.edu/chapters/s9082.pdf | DEMPSECH01
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=pinterest | pinterest - Google Search
+https://www.washingtonpost.com/news/soloish/ | Solo-ish - The Washington Post
+
+https://www.udacity.com/me#!/ | Home - Udacity
+https://www.udacity.com/course/viewer#!/c-ud730/l-6370362152/m-6370314231 | Classroom - Udacity
+https://www.udacity.com/course/viewer#!/c-ud730/l-6370362152/e-6379811834/m-6411338956 | Classroom - Udacity
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/README.md | tensorflow/README.md at master · tensorflow/tensorflow
+https://github.com/tensorflow/tensorflow | tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning
+http://192.168.99.100:8888/tree | Home
+http://192.168.99.100:8888/notebooks/1_notmnist.ipynb | 1_notmnist
+http://www.gwu.edu/ | The George Washington University
+http://ipcc.ch/ | IPCC - Intergovernmental Panel on Climate Change
+http://hdr.undp.org/en/countries/profiles/BGD | | Human Development Reports
+https://www.cia.gov/library/publications/the-world-factbook/geos/us.html | The World Factbook
+http://gpadbd.com/?page_id=89 | GIS Data Sources in Bangladesh | Welcome to GPAD
+http://www.bbs.gov.bd/PageWebMenuContent.aspx?MenuKey=337 | ..:: Bangladesh Bureau of Statistics ::..
+http://www.ciesin.columbia.edu/confluence/download/attachments/34308102/Huque+final-ITC-+Slum+Mapping_Bangladesh.pdf?version=1 | Huque final-ITC- Slum Mapping_Bangladesh
+http://www.cegisbd.com/publications.aspx | CEGIS Website
+https://en.wikipedia.org/wiki/Human_Development_Index | Human Development Index - Wikipedia, the free encyclopedia
+https://www.ipcc-wg2.gov/SREX/images/uploads/SREX-All_FINAL.pdf | SREX-All_FINAL.pdf
+
+http://www.lynda.com/Web-training-tutorials/88-0.html?category=angularjs_1696 | Web Tutorials | Lynda.com
+http://gworld.gwu.edu/locations-hours | Locations & Hours | GWorld Card Program | The George Washington University
+http://insight.gbig.org/smart-metering-to-promote-infill-development/ | Smart Metering to Promote Infill Development :: GBIG Insight
+http://www.slate.com/articles/podcasts/slate_money/2016/01/william_easterly_on_the_developing_world_and_the_world_bank.html | William Easterly on the developing world and the World Bank.
+http://www.amazon.com/Gomorrah-Personal-Journey-International-Organized/dp/0312427794/ref=sr_1_1?ie=UTF8&qid=1454188098&sr=8-1&keywords=gomorrah | Gomorrah: A Personal Journey into the Violent International Empire of Naples' Organized Crime System: Roberto Saviano, Virginia Jewiss: 9780312427795: Amazon.com: Books
+https://www.planning.org/join/students/ | Join APA: Students
+https://www.planning.org/join/pdf/memberform.pdf | memberform.pdf
+http://www.sho.com/sho/video/titles/41958/billions-series-premiere | Showtime : Billions Series Premiere
+https://en.wikipedia.org/wiki/Realpolitik | Realpolitik - Wikipedia, the free encyclopedia
+https://geoplan.asu.edu/people/luc-anselin | Luc Anselin | School of Geographical Sciences and Urban Planning
+http://www.synthicity.com/vision/ | Vision — Synthicity
+http://ced.berkeley.edu/ced/faculty-staff/paul-waddell | Paul-Waddell | UC Berkeley College of Environmental Design
+https://github.com/gboeing/urban-data-science/blob/master/20-Urban-Simulation/waddell-urbansim-slides.pdf | urban-data-science/waddell-urbansim-slides.pdf at master · gboeing/urban-data-science
+http://udst.github.io/urbansim/gettingstarted.html | Getting Started — urbansim 0.2dev documentation
+https://github.com/PyTables/PyTables/issues/219 | pip tables install fails, HDF5 library not found · Issue #219 · PyTables/PyTables
+http://docs.h5py.org/en/latest/build.html | Installation — h5py 2.6.0 documentation
+https://blackboard.gwu.edu/webapps/login/?new_loc=%2Fwebapps%2Fblackboard%2Fcontent%2FlistContent.jsp%3Fcourse_id%3D_262934_1%26content_id%3D_7055758_1%26mode%3Dreset | Blackboard Learn
+https://blackboard.gwu.edu/bbcswebdav/pid-7055799-dt-content-rid-15381164_2/courses/74854_201601/Lecture%202%2C%20Rising%20GHGs%202016.pdf | Lecture 2, Rising GHGs 2016.pdf
+http://www.ceres.org/resources/tools/sec-sustainability-disclosure/sec-sustainability-disclosure | SEC Sustainability Disclosure Search — Ceres
+https://blackboard.gwu.edu/bbcswebdav/pid-7055770-dt-content-rid-15208909_2/courses/74854_201601/Activity%20--%20Explaining%20Past%20Climate%282%29.pdf | Microsoft Word - Activity -- Explaining Past Climate.docx
+http://blogs.exeter.ac.uk/stoicismtoday/introduction-to-online-course/ | Introduction to Online Course | Stoicism Today
+https://app.buddy.works/egeriicw/login | Sign in · egeriicw
+https://docs.travis-ci.com/user/for-beginners | Travis CI for Complete Beginners - Travis CI
+http://www.theatlantic.com/business/archive/2015/09/how-america-lost-track-of-benjamin-franklins-definition-of-success/400808/?utm_source=SFFB | How America Lost Track of Ben Franklin's Definition of Success - The Atlantic
+https://www.washingtonpost.com/world/national-security/eyewash-how-the-cia-deceives-its-own-workforce-about-operations/2016/01/31/c00f5a78-c53d-11e5-9693-933a4d31bcc8_story.html?hpid=hp_rhp-top-table-main_eyewash625p%3Ahomepage%2Fstory | ‘Eyewash’: How the CIA deceives its own workforce about operations - The Washington Post
+https://blackboard.gwu.edu/webapps/login/?new_loc=%2Fwebapps%2Fblackboard%2Fcontent%2FlistContent.jsp%3Fcourse_id%3D_262934_1%26content_id%3D_6937217_1%26mode%3Dreset | Blackboard Learn
+https://www.cdp.net/en-US/Pages/CDPAdvancedSearchResults.aspx?k=fedex | https://www.cdp.net/en-US/Pages/CDPAdvancedSearchResults.aspx?k=fedex
+https://www.cdp.net/en-US/Results/Pages/Responses.aspx?Search=True&Keyword=fedex | Results - responses
+https://www.cdp.net/en-US/MyCDP/Anonymous/Login.aspx?ReturnUrl=%2fsites%2f2015%2f87%2f6287%2fClimate+Change+2015%2f_layouts%2fAuthenticate.aspx%3fSource%3d%252Fsites%252F2015%252F87%252F6287%252FClimate%2520Change%25202015%252FPages%252FDisclosureView%252Easpx&Source=%2Fsites%2F2015%2F87%2F6287%2FClimate%20Change%202015%2FPages%2FDisclosureView%2Easpx | Login
+https://www.cdp.net/en-US/MyCDP/Anonymous/Login.aspx?ReturnUrl=%2fsites%2f2015%2f52%2f5052%2fClimate+Change+2015%2f_layouts%2fAuthenticate.aspx%3fSource%3d%252Fsites%252F2015%252F52%252F5052%252FClimate%2520Change%25202015%252FPages%252FDisclosureView%252Easpx&Source=%2Fsites%2F2015%2F52%2F5052%2FClimate%20Change%202015%2FPages%2FDisclosureView%2Easpx | Login
+http://cdiac.ornl.gov/epubs/ndp/ushcn/ushcn_map_interface.html | United States Historical Climatology Network
+http://cdiac.ornl.gov/cgi-bin/broker?_PROGRAM=prog.climsite_monthly.sas&_SERVICE=default&id=443192&_DEBUG=0 | U.S. Historical Climatology Network
+https://www.seas.harvard.edu/climate/eli/research/equable/hadley.html | Hadley Cells
+https://en.wikipedia.org/wiki/Atmosphere_of_Earth | Atmosphere of Earth - Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Pauli_exclusion_principle | Pauli exclusion principle - Wikipedia, the free encyclopedia
+
+http://gispopsci.org/
+http://www.icpsr.umich.edu/CrimeStat/download.html | Download CrimeStat
+https://sites.google.com/site/econometricsacademy/econometrics-models/spatial-econometrics | Spatial Econometrics - Econometrics Academy
+https://geodacenter.asu.edu/software | GeoDa Center & Affiliated Software | GeoDa Center
+http://www.datalensdc.com/about.html | About DataLensDC: The District through Data
+https://github.com/katerabinowitz | katerabinowitz (Kate Rabinowitz)
+http://www.washingtonian.com/author/katerabinowitz/ | Kate Rabinowitz, Author at WashingtonianWashingtonian
+http://www.gwu.edu/non-degree | Non-Degree | The George Washington University
+http://nondegree.gwu.edu/general-study-applicants | General Study Applicants | The George Washington University
+https://app.applyyourself.com/common/fl_ApplicantLogout.asp?CID=363&ID=GWU-ND&d=1%2F11%2F2016+11%3A50%3A25+PM&AYID=14CADED-AD2B-45D9-A379-D306393F146 | Logout
+http://studentaccounts.gwu.edu/disclosures | Disclosures | Student Accounts Office | Finance Division | The George Washington University
+http://registrar.gwu.edu/registration | Registration | Office of the Registrar | The George Washington University
+https://studenthealth.gwu.edu/sites/studenthealth.gwu.edu/files/downloads/English%20Version%20%20Immz%20Forms%20Fall%202015.pdf | https://studenthealth.gwu.edu/sites/studenthealth.gwu.edu/files/downloads/English Version  Immz Forms Fall 2015.pdf
+http://studentconduct.gwu.edu/code-academic-integrity | Code of Academic Integrity | Student Conduct | Division of Student Affairs | The George Washington University
+http://www.azavea.com/blogs/atlas/2015/07/analyzing-opentreemap-data-with-postgis/ | Analyzing OpenTreeMap Data with PostGIS | Azavea Atlas
+http://blog.districtdatalabs.com/time-maps-visualizing-discrete-events-across-many-timescales | District Data Labs - Time Maps: Visualizing Discrete Events Across Many Timescales
+http://www.meetup.com/Data-Visualization-DC/events/223109920/ | Visualizing Cryptography - Data Visualization DC (Washington, DC) - Meetup
+http://www.kevfoo.com/2012/01/Importing-CSV-to-PostGIS/ | Kevin McMahon | Importing CSV data with location information into PostGIS
+https://citymapper.com/jobs | Public transport, walking and cycling directions - Citymapper
+http://www.wmata.com/rider_tools/developer_resources.cfm | Metro - Rider Tools
+http://gis.stackexchange.com/questions/90071/installing-lastools-to-qgis-on-a-mac-or-other-las-processing-plugins | Installing LASTools to QGIS on a Mac (or other LAS processing plugins) - Geographic Information Systems Stack Exchange
+http://www.pwcgov.org/government/dept/doit/gis/Pages/Digital-Data.aspx | Digital Data
+http://www.fairfaxcounty.gov/maps/data.htm | Fairfax GIS Data - Fairfax County, Virginia
+http://data.fairfaxcountygis.opendata.arcgis.com/datasets/2067887d5c0347cfaefab6f2d163e835_0?uiTab=table | Parcels
+https://infogeoblog.wordpress.com/2013/02/18/joining-layers-in-qgis/ | Joining Layers in QGIS | Geo Information
+http://gis.stackexchange.com/questions/71244/deleting-points-that-fall-outside-a-polygon | qgis - Deleting points that fall outside a polygon - Geographic Information Systems Stack Exchange
+http://gis.stackexchange.com/questions/69053/exporting-shapefile-to-postgis-database-in-qgis | Exporting shapefile to PostGIS database in QGIS - Geographic Information Systems Stack Exchange
+http://cps.gwu.edu/master-professional-studies-sustainable-urban-planning-0 | Master of Professional Studies in Sustainable Urban Planning | College of Professional Studies | The George Washington University
+http://www.qgistutorials.com/en/docs/points_in_polygon.html | Points in Polygon Analysis — QGIS Tutorials and Tips
+http://gis.stackexchange.com/questions/53678/total-of-attribute-field-of-point-layer-per-polygon-layer | qgis - Total of attribute field of point layer per polygon layer - Geographic Information Systems Stack Exchange
+https://www.facebook.com/amy.drummond?fref=nf | Amy Drummond
+
+https://databricks.com/resources/selected-notebooks | Selected Notebooks | Databricks
+https://databricks.com/wp-content/uploads/2015/10/STEP-1-Explore.html | Explore - Databricks
+https://parquet.apache.org/ | Apache Parquet
+http://semanticommunity.info/ | Semantic Community - Semanticommunity.info
+https://mos-benchmarking.cartodb.com/tables/mos_beb_2013_2014/public | mos beb 2013 2014
+http://egeriicw.asuscomm.com:8100/#/ | MOS - Energy Benchmarking
+https://www.dashingd3js.com/using-data-bound-to-dom-elements | Using Data Bound to DOM Elements | DashingD3js.com
+http://www.theatlantic.com/entertainment/archive/2015/11/the-tragicomedy-of-depression-on-youre-the-worst/413995/?utm_source=SFFB | FXX's 'You're the Worst' Finds Laughs While Tackling Clinical Depression - The Atlantic
+http://www.ng-newsletter.com/posts/directives.html | Build custom directives with AngularJS | ng-newsletter – the free, weekly AngularJS newsletter
+
+https://archive.org/details/softwarelibrary_msdos_games?&sort=-downloads&page=2 | Software Library: MS-DOS Games : Free Software : Download & Streaming : Internet Archive
+http://www.warriormindcoach.com/Podcast/ | Index of /Podcast
+http://www.osgeo.org/ossim | OSSIM InfoSheet | OSGeo.org
+http://www.idaholidar.org/tools/lastools/ | LASTools - Idaho LiDAR
+http://www.cs.unc.edu/~isenburg/lastools/download/LICENSE.txt | www.cs.unc.edu/~isenburg/lastools/download/LICENSE.txt
+http://www.liblas.org/download.html | Download — liblas.org
+http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml | Distance Education § Harvard University Extension School
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python | Practical Programming for Total Beginners
+http://www.rasmurtech.com/ | Welcome to Rasmurtech.com | Free Video ClassesFree Video Classes
+https://taiga.io/ | Taiga.io
+https://2015.foss4g-na.org/session-type/tutorial-3-hours | Tutorial [3 hours] | FOSS4G NA 2015
+http://download.gisgraphy.com/ | Free opensource geocoder and webservices for geonames and openstreetmap data
+http://www.idaholidar.org/free-lidar-tools/ | Free LiDAR Tools - Idaho LiDAR
+https://www.us-ignite.org/get-involved/involve-communities-learn/ | Get Involved Communities - Learn US Ignite
+https://courses.edx.org/login?next=/courses/course-v1%3AETHx%2BFC-01x%2B2T2015/courseware/fac131d2b49141098d4ec45994f71b14/fda2284bb200489abaf44d7ed7919ae3/ | Sign in or Register | edX
+https://www.crcpress.com/Web-Based-Energy-Information-and-Control-Systems-Case-Studies-and-Applications/Capehart-Capehart/9780849338984 | Web Based Energy Information and Control Systems: Case Studies and Applications - CRC Press Book
+https://www.crcpress.com/business-management/facility-management?page=1&order=pubdate&size=48&view=list&type=references,textbooks&status=published | Facility Management from CRC Press - Page 1
+http://nsarchive.gwu.edu/NSAEBB/NSAEBB46/ | The Pentagon's Spies
+http://www.washingtonexaminer.com/exclusive-book-excerpt-sabotage-part-5-capturing-iraqs-most-wanted-man/article/73418 | Exclusive Book Excerpt: 'Sabotage' Part 5 -- Capturing Iraq's most wanted man | Washington Examiner
+http://weather.climate25.com/voices/ | Voices - Climate 25 - The Weather Channel
+http://people.duke.edu/~ccc14/sta-663/IPythonNotebookIntroduction.html | Getting started with Python and the IPython notebook — Computational Statistics in Python 0.1 documentation
+http://angularjs4u.com/tips/common-dilemma-angularjs-developer/ | Dilemma of an AngularJS Module Developer
+http://web.mit.edu/cron/project/CUPUM2015/cupum2015_program.pdf | http://web.mit.edu/cron/project/CUPUM2015/cupum2015_program.pdf is not available
+http://ocw.mit.edu/courses/urban-studies-and-planning/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/readings/ | Readings | Introduction to Computers in Public Management II | Urban Studies and Planning | MIT OpenCourseWare
+https://www.washingtonpost.com/graphics/national/gauging-climate-change/ | Scientists are looking at these indicators to measure climate change - Washington Post
+
+https://www.elastic.co/guide/en/kibana/current/tutorial-define-index.html | Defining Your Index Patterns
+https://www.udacity.com/wiki/ud088 | Full Stack Foundations - Udacity
+http://www.lutraconsulting.co.uk/blog/2014/06/06/getting-started-with-qgis/ | Getting Started With QGIS - Lutra Consulting
+http://issuu-downloader.abuouday.com/ | Online Issuu PDF Downloader
+https://lincolnloop.com/blog/2010/apr/30/installing-geodjango-dependencies-homebrew/ | Installing GeoDjango Dependencies with Homebrew | Lincoln Loop
+http://boundlessgeo.com/blog/ | Blog - Boundless GIS
+http://codehandbook.org/creating-restful-api-using-python-flask-mysql/ | Creating RESTful API Using Python Flask & MySQL | Code Handbook
+http://codehandbook.org/creating-restful-api-using-python-flask-mysql-part-2/ | Creating RESTful API Using Python Flask & MySQL – Part 2 | Code Handbook
+http://codehandbook.org/creating-an-angularjs-app-powered-by-python-flask-restful-api/ | Creating an AngularJS app powered by Python Flask RESTful API – Setting Up the Application | Code Handbook
+http://damyanon.net/category/flask/ | Flask | Damyan's Blog
+http://code.runnable.com/UhLMQLffO1YSAADK/handle-a-post-request-in-flask-for-python | Handle a POST Request In Flask for Python Code Example - Runnable
+http://code.runnable.com/UhUyo3s2lHUbAAro/redirects-in-flask-for-python | code.runnable.com | 520: Web server is returning an unknown error
+http://code.runnable.com/UuZA5ZA6voMLAAAX/rest-ful-api-example-using-flask-for-python | code.runnable.com | 520: Web server is returning an unknown error
+http://www.davidadamojr.com/my-path-to-angularjs/ | My Path to AngularJS | David Adamo Jr.
+https://thinkster.io/topics/angular | AngularJS Tutorials and Courses - Thinkster
+https://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/ | AngularJS Tutorial | Learn Angular by Building a Gmail Clone
+https://skylines.aero/ | SkyLines
+http://thecircuitnerd.com/tag/flask/ | flask – The Circuit Nerd Blog
+http://www.datasciencebytes.com/about/ | About
+https://2015.djangocon.us/speaker/profile/32/ | Anna Ossowski | DjangoCon in Austin, TX
+https://www.safaribooksonline.com/blog/2013/12/05/flask-with-mock-and-nose/ | Flask Testing with Mock and Nose - Safari Blog
+http://www.brettdangerfield.com/post/realtime_data_tag_cloud/ | Playing with REALTIME data, Python and D3
+http://www.kwhanalytics.com/ | kWh Analytics | Delivering Insight on the Solar Asset Class
+http://www.vox.com/2015/10/5/9453131/new-york-utilities-rev | New York's revolutionary plan to remake its power utilities - Vox
+http://containertutorials.com/docker-compose/flask-simple-app.html | Dockerize Simple Flask App — Container Tutorials
+https://github.com/vovimayhem/docker-compose-rails-dev-example | vovimayhem/docker-compose-rails-dev-example
+https://github.com/skylines-project/skylines/blob/master/skylines/commands/database.py | skylines/database.py at master · skylines-project/skylines
+https://docs.angularjs.org/tutorial | AngularJS: Tutorial: Tutorial
+https://github.com/SEED-platform/seed/blob/develop/seed/static/seed/js/seed.js | seed/seed.js at develop · SEED-platform/seed
+http://pimylifeup.com/category/raspberry-pi-accessories/ | Raspberry Pi Accessories - Pi My Life Up
+http://www.intdatsys.com/index.htm | Interval Data Systems — Facilities Operations, Enterprise Energy Management
+https://plot.ly/ipython-notebooks/big-data-analytics-with-pandas-and-sqlite/ | Sqlite
+https://www.reddit.com/r/Python/comments/3wa22v/120gb_csv_is_this_something_i_can_handle_in_python/ | 120gb csv - Is this something i can handle in python? : Python
+http://firstwefeast.com/drink/thats-odd-lets-drink-it/ | First We Feast Presents...That's Odd, Let's Drink It! | First We Feast
+http://www.nytimes.com/column/modern-love | Modern Love Essays - The New York Times
+https://github.com/gboeing?tab=repositories | gboeing (gboeing)
+https://www.codecademy.com/learn/javascript | JavaScript | Codecademy
+http://www.citilabs.com/blog/ | Blog - Citilabs
+https://github.com/osPlanning/cube2omx | osPlanning/cube2omx
+https://github.com/dlab-berkeley?page=2 | D-Lab
+https://github.com/NREL/IPMVP | NREL/IPMVP
+http://www.azavea.com/blogs/atlas/page/3/ | Azavea Atlas - Part 3
+http://egeriicw.asuscomm.com:8100/#/ | MOS - Energy Benchmarking
+https://github.com/azavea/mos-energy-benchmark/blob/develop/app/scripts/views/charts/charts-partial.html | mos-energy-benchmark/charts-partial.html at develop · azavea/mos-energy-benchmark
+https://github.com/azavea/mos-energy-benchmark/blob/aa45f474c7d78949d377f24f1d895e33b92399b1/app/index.html | mos-energy-benchmark/index.html at aa45f474c7d78949d377f24f1d895e33b92399b1 · azavea/mos-energy-benchmark
+https://github.com/guidobouman/jquery-panelsnap | guidobouman/jquery-panelsnap
+https://www.tensorflow.org/ | TensorFlow -- an Open Source Software Library for Machine Intelligence
+http://www.foobarflies.io/creating-a-simple-energy-monitor/ | Creating a simple WiFi-enabled energy monitor
+https://hub.docker.com/r/spotify/kafka/~/dockerfile/ | Docker Hub
+http://www.makedatauseful.com/kafka-consumer-simple-python-script-and-tips/ | Kafka Consumer - Simple Python Script and Tips - Make Data Useful
+https://www.youtube.com/watch?v=WaNlj_oExj0 | Modeling the Connected City of the Future with Kafka and Spark - YouTube
+http://blog.memsql.com/modeling-the-city-of-the-future-with-kafka-and-spark/ | Modeling the City of the Future with Kafka and Spark | MemSQL Blog
+http://www.michael-noll.com/blog/2014/10/01/kafka-spark-streaming-integration-example-tutorial/ | Integrating Kafka and Spark Streaming: Code Examples and State of the Game - Michael G. Noll
+http://hortonworks.com/hadoop-tutorial/simulating-transporting-realtime-events-stream-apache-kafka/ | Transporting Real-Time Event Stream with Apache Kafka - Hortonworks
+http://kafka.apache.org/documentation.html | Apache Kafka
+https://github.com/spotify/docker-kafka | spotify/docker-kafka
+https://github.com/yahoo/kafka-manager | yahoo/kafka-manager
+https://aws.amazon.com/stateandlocal/cityonacloud/map/ | City on a Cloud Map
+http://pykafka.readthedocs.org/en/latest/index.html | PyKafka — pykafka 2.1.2 documentation
+https://github.com/jmcunningham/AngularJS-Learning#introductionsbeginning-angularjs-also-look-at-the-multipart-articles | jmcunningham/AngularJS-Learning

@@ -1,0 +1,72 @@
+https://www.turing.ac.uk/events/data-science-masterclass-data-science-applications-urban-data-science/ | Data Science Masterclass - Data Science Applications - Urban data science - The Alan Turing Institute
+http://data8.org/ | data-8.github.io
+http://data8.org/smart-cities-connector/ | Smart cities connector by dsten
+http://www.northeastern.edu/data-analytics/ms-in-urban-informatics/ | MS in Urban Informatics - Data Analytics | Data Analytics | Northeastern University
+https://kinder.rice.edu/UrbanData/ | Urban Data Platform : Kinder Institute for Urban Research
+https://www.google.com/search?q=urban+data+science&oq=urban+data+science&aqs=chrome.0.0j69i65j0l4.2439j0j7&sourceid=chrome&ie=UTF-8#q=urban+data+science&start=20 | urban data science - Google Search
+https://spacetimeinsight.app.box.com/s/1oego2dsbmsyloq68wchskjp6x7z9294 | Space_Time_Insight_White_Paper_Smart_Meter.pdf - File Shared from Box
+https://spacetimeinsight.app.box.com/s/e90hmudk419ai6add25wbvefokzn0oba | SpaceTime_Insight_Success_Story_SMUD.pdf - File Shared from Box
+https://spacetimeinsight.com/visualization-and-action/ | SpaceTime Insight - Visualization
+https://spacetimeinsight.com/advanced-analytics/ | SpaceTime Insight - Advanced Analytics
+https://spacetimeinsight.com/visitor_resources/sacramento-municipal-utility-district-smud-making-big-decisions-big-data/ | Sacramento Municipal Utility District (SMUD) – Making Big Decisions with Big Data - SpaceTime Insight
+https://www.datacamp.com/courses/intro-to-python-for-data-science | Learn Python for Data Science - Online Course
+https://carto.com/blog/location-data-water-insecurity | How Location Data is Helping Solve Water Insecurity — CARTO Blog
+https://www.codeforamerica.org/events/national-day-2016 | It's finally here! Hack for change with us this weekend · Code for America
+https://www.codeforamerica.org/events/national-day-2016 | It's finally here! Hack for change with us this weekend · Code for America
+https://github.com/CodeForTucson/ | Code for Tucson
+http://osm-analytics.org/#/show/polygon:lwzvMquolFcyo%40vob%40wok%40_m%60%40h_o%40ws%5D/buildings/recency | OSM Analytics Tool
+https://www.datacamp.com/courses/introduction-to-data-visualization-with-python?utm_source=fb_paid&utm_medium=fb_desktop&utm_campaign=fb_ppa | Introduction to Data Visualization with Python
+https://uscensusbureau.github.io/citysdk/examples/arcGisHUD/ | CitySDK - US Census Bureau
+https://www.mapbox.com/blog/2/ | Blog | Mapbox
+https://www.ucl.ac.uk/bartlett/casa/research/current-projects/mechanicity | | The Bartlett Centre for Advanced Spatial Analysis - UCL - London's Global University
+https://www.gislounge.com/use-python-gis/ | The Use of Python in GIS ~ GIS Lounge
+https://astro.temple.edu/~jmennis/Courses/GUS_0150/readings/Waddell02.pdf | Waddell02.pdf
+http://mapcraft.io/ | MapCraft
+https://github.com/oaklandanalytics/sim.js/blob/master/index.html | sim.js/index.html at master · oaklandanalytics/sim.js
+https://github.com/oaklandanalytics | OaklandAnalytics
+http://www.citiesofdata.org/foundations-of-urban-science/proj-inventory/ | Projects | Cities of Data
+http://escience.washington.edu/wp-content/uploads/2016/03/DSSG_information_slides.pdf | DSSG_information_slides.pdf
+http://www.urban.org/research/data-methods/data-science-capabilities | Data Science Capabilities | Urban Institute
+https://www.planetizen.com/node/66028 | Solutionism in Urban Data Science | Planetizen: The independent resource for people passionate about planning and related fields
+http://www.bigdata.cam.ac.uk/events/events-archive/wuds15 | Workshop on Urban Data Science #wuds15 — Cambridge Big Data
+http://www.reades.com/2016/10/14/the-full-stack/ | The Full Stack: Tools & Processes for Urban Data Scientists | Placetique
+http://www.cl.cam.ac.uk/research/srg/netos/uds/ | Workshop on Urban Data Science
+http://www.urbanccd.org/events/2016/4/27/convening-on-urban-data-science | Convening on Urban Data Science — Urban Center for Computation and Data
+http://www.urbanccd.org/urbandataconven/ | University of Chicago Convening on Urban Data Science — Urban Center for Computation and Data
+http://www.urbansim.com/udst/ | Urban Data Science Toolkit — UrbanSim
+https://www.bi.vt.edu/sdal/news/events/convening-on-urban-data-science | Convening on Urban Data Science
+https://socrata.com/video/stories-from-urban-data-science/ | Stories From Urban Data Science
+http://datascience.columbia.edu/smart-cities | Smart Cities | Data Science Institute
+https://energy.gov/eere/articles/energy-department-announces-12-million-projects-advance-wave-energy | Energy Department Announces up to $12 Million for Projects to Advance Wave Energy | Department of Energy
+https://ggwash.org/view/63641/dcst-bus-priority-curbside-management-autonomous-vehicles | DCST will work on bus priority and routes, curbside management, and autonomous vehicles – Greater Greater Washington
+http://ymlp.com/zGeOBI | Use of Python in GIS, Esri UC 2017
+https://www.google.com/search?q=apache+kafka+smart+meters&oq=apache+kafka+smart+meters&aqs=chrome..69i57.4143j0j7&sourceid=chrome&ie=UTF-8 | apache kafka smart meters - Google Search
+http://www1.memsql.com/kafka-guide-gaw.html?utm_source=adwords&utm_medium=cpc&utm_content=kafka&utm_campaign=kafkaguide&gclid=CjwKEAjw4IjKBRDr6p752cCUm3kSJAC-eqRtykopdbTvORmRSvuR2mW7tljEr2ann4E8B9rDmoQUBxoCB5nw_wcB | FREE GUIDE: Pairing Apache Kafka with a Real-Time Database
+https://hbr.org/2017/06/how-to-handle-underperformers-on-a-team-you-inherit?utm_campaign=hbr&utm_source=facebook&utm_medium=social | How to Handle Underperformers on a Team You Inherit
+https://lincolnloop.com/blog/ | Blog | Lincoln Loop
+https://journalismcourses.org/login/signup.php | Confirm your account
+http://journalismcourses.org/PDJ0517.html | Python for Data Journalists: Analyzing Money in Politics
+https://medium.com/the-data-intelligence-connection/data-modelling-and-e-r-diagrams-13d832b6e212 | Data Modelling and E-R Diagrams – The Data Intelligence Connection – Medium
+http://journalismcourses.org/ | Journalism Courses
+https://medium.com/the-data-intelligence-connection/advanced-analytics-in-order-to-cash-process-7f85251120a | Advanced Analytics in Order to Cash Process – The Data Intelligence Connection – Medium
+https://blogs.office.com/2013/09/25/power-map-for-excel-earns-new-name-with-significant-updates-to-3d-visualizations-and-storytelling/ | Power Map for Excel earns new name with significant updates to 3D visualizations and storytelling - Office Blogs
+http://www.datasciencecentral.com/profiles/blogs/20-excel-tricks | 40 Excel Tricks - Data Science Central
+https://medium.freecodecamp.com/grabs-front-end-guide-for-large-teams-484d4033cc41 | Our 500+ engineers all use this front end development guide
+https://knightcenter.utexas.edu/mooc/PDJ0517/Intro/prologue-01-cli-trimmed.pdf | prologue-01-cli-trimmed.pdf
+http://www.marinamele.com/taskbuster-django-tutorial | TaskBuster Django Tutorial | Marina Mele's site
+https://medium.com/@nickholden/guide-to-building-a-django-web-app-lessons-from-a-non-coder-18b7c691feb6 | Guide to Building a Django Web App, Lessons from a Non-Coder.
+https://promotions.kinja.com/every-udemy-course-is-now-10-each-web-dev-writing-p-1795162944 | Thousands Of Udemy Courses Are Now $10 Each: Web Dev, Writing, Business, &amp; More
+https://www.udemy.com/courses/?pmtag=CHANGEIT&utm_source=growth-affiliate&utm_medium=linkshare&utm_term=G5Efv5Bc9nM&utm_content=article&utm_campaign=Deals_._pn_G5Efv5Bc9nM_._ci__._ex__._&siteID=G5Efv5Bc9nM-6w_ND_lED97ts16QqI1JFQ&LSNPUBID=G5Efv5Bc9nM | Online Courses - Anytime, Anywhere | Udemy
+https://www.udemy.com/photography-masterclass-your-complete-guide-to-photography/?deal_code=GIZMODOUDEMY&utm_source=growth-affiliate&utm_medium=linkshare&utm_term=G5Efv5Bc9nM&utm_content=article&utm_campaign=Kinja%20Deals_._pn_G5Efv5Bc9nM_._ci__._ex_Y_._&siteID=G5Efv5Bc9nM-nKnNJy7nJ5Tl2a5285fXCg&LSNPUBID=G5Efv5Bc9nM | Photography Masterclass: Your Complete Guide to Photography | Udemy
+https://www.udemy.com/an-entire-mba-in-1-courseaward-winning-business-school-prof/?deal_code=GIZMODOUDEMY&utm_source=growth-affiliate&utm_medium=linkshare&utm_term=G5Efv5Bc9nM&utm_content=article&utm_campaign=Kinja%20Deals_._pn_G5Efv5Bc9nM_._ci__._ex_Y_._&siteID=G5Efv5Bc9nM-FYZUPSf8ipSyms1ydoKKnw&LSNPUBID=G5Efv5Bc9nM#curriculum | An Entire MBA in 1 Course:Award Winning Business School Prof | Udemy
+https://www.udemy.com/photography-masterclass-your-complete-guide-to-photography/?deal_code=GIZMODOUDEMY&utm_source=growth-affiliate&utm_medium=linkshare&utm_term=G5Efv5Bc9nM&utm_content=article&utm_campaign=Kinja%20Deals_._pn_G5Efv5Bc9nM_._ci__._ex_Y_._&siteID=G5Efv5Bc9nM-KM3vwYOOeLINRXbZNniD3w&LSNPUBID=G5Efv5Bc9nM | Photography Masterclass: Your Complete Guide to Photography | Udemy
+https://www.udemy.com/the-complete-web-developer-course-2/?pmtag=&utm_source=growth-affiliate&utm_medium=linkshare&utm_term=G5Efv5Bc9nM&utm_content=article&utm_campaign=Kinja%20Deals_._pn_G5Efv5Bc9nM_._ci__._ex__._&siteID=G5Efv5Bc9nM-KqfLOvFpzC3SaE_B2y_BLw&LSNPUBID=G5Efv5Bc9nM | The Complete Web Developer Course 2.0 | Udemy
+https://www.udemy.com/penetration-testing/?deal_code=GIZMODOUDEMY&utm_source=growth-affiliate&utm_medium=linkshare&utm_term=G5Efv5Bc9nM&utm_content=article&utm_campaign=Kinja%20Deals_._pn_G5Efv5Bc9nM_._ci__._ex_Y_._&siteID=G5Efv5Bc9nM-vjVZG0PC5v77IMCR19wIyw&LSNPUBID=G5Efv5Bc9nM | The Complete Ethical Hacking Course: Beginner to Advanced! | Udemy
+https://www.udemy.com/complete-python-bootcamp/?deal_code=GIZMODOUDEMY&utm_source=growth-affiliate&utm_medium=linkshare&utm_term=G5Efv5Bc9nM&utm_content=article&utm_campaign=Kinja%20Deals_._pn_G5Efv5Bc9nM_._ci__._ex_Y_._&siteID=G5Efv5Bc9nM-mLEX0kxEpfwgV2rzC0Go4Q&LSNPUBID=G5Efv5Bc9nM | Complete Python Bootcamp: Go from zero to hero in Python | Udemy
+https://www.udemy.com/the-web-developer-bootcamp/?deal_code=GIZMODOUDEMY&utm_source=growth-affiliate&utm_medium=linkshare&utm_term=G5Efv5Bc9nM&utm_content=article&utm_campaign=Kinja%20Deals_._pn_G5Efv5Bc9nM_._ci__._ex_Y_._&siteID=G5Efv5Bc9nM-pa4T.xUVFy83rjqAjLJC_g&LSNPUBID=G5Efv5Bc9nM | The Web Developer Bootcamp | Udemy
+https://medium.com/@ktruong008/building-an-api-with-django-rest-framework-and-class-based-views-75b369b30396 | Building an API with Django REST Framework and Class-Based Views
+https://devblogs.nvidia.com/parallelforall/goai-open-gpu-accelerated-data-analytics/ | GOAI: Open GPU-Accelerated Data Analytics | Parallel Forall
+https://www.fullstackpython.com/blog/generating-static-websites-pelican-jinja2-markdown.html | How to Create Your First Static Site with Pelican and Jinja2 - Full Stack Python
+https://nipunbatra.github.io/blog/2017/Jupyter-powered-blog.html | Hacking my way to a Jupyter notebook powered blog
+http://kafka.apache.org/documentation/#introduction | Apache Kafka
+https://www.confluent.io/blog/introduction-to-apache-kafka-for-python-programmers/ | Introduction to Apache Kafka™ for Python Programmers | Confluent
